@@ -10,7 +10,7 @@
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Kyber](#kyber)
 - [Maker](#maker)
-- [RAY](RAY)
+- [RAY](#RAY)
 - [Stablecoins](#stablecoins)
 - [Staking](#staking)
 - [Synthetix](#synthetix)
