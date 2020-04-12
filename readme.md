@@ -9,7 +9,9 @@
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Kyber](#kyber)
 - [Maker](#maker)
+- [RAY](RAY)
 - [Stablecoins](#stablecoins)
+- [Staking](#staking)
 - [Synthetix](#synthetix)
 - [Uniswap](#uniswap)
 
@@ -32,10 +34,19 @@
 - http://dai.descipher.io/
 - http://makervaults.descipher.io/
 - https://defipulse.com/maker
+- https://www.coingecko.com/en/earn/dai
+
+## RAY
+- https://staking.staked.us/ray
+- https://defipulse.com/robo-advisor-for-yield
 
 ## Stablecoins
 - https://app.santiment.net/assets/list?name=stablecoins
 - https://coinmetrics.io/charts/#assets=usdt,usdteth,dai,usdc,busd,gusd,husd,sai,tusd,pax,usdttrx_log=false_left=SplyCur_zoom=1555027200000,1586563200000
+
+## Staking 
+- https://staked.us/yields/
+- https://stakingrewards.com
 
 ## Synthetix
 - https://dashboard.synthetix.io
