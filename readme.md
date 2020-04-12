@@ -8,7 +8,7 @@
 - [0x](#0x)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Kyber](#kyber)
-- [Maker}(#maker)
+- [Maker](#maker)
 - [Stablecoins](#stablecoins)
 - [Synthetix](#synthetix)
 - [Uniswap](#uniswap)
