@@ -13,6 +13,7 @@
 - [Kyber](#kyber)
 - [Maker](#maker)
 - [RAY](#RAY)
+- [Set Protocol](#set-protocol)
 - [Stablecoins](#stablecoins)
 - [Staking](#staking)
 - [Synthetix](#synthetix)
@@ -52,6 +53,10 @@
 ## RAY
 - https://staking.staked.us/ray
 - https://defipulse.com/robo-advisor-for-yield
+
+## Set Protocol
+- https://defipulse.com/set-protocol
+- https://scout.cool/setprotocol/mainnet
 
 ## Stablecoins
 - https://app.santiment.net/assets/list?name=stablecoins
