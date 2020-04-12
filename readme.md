@@ -9,6 +9,7 @@
 - [Balancer](#balance)
 - [Compound](#compound)
 - [Decentralized Exchanges](#decentralized-exchanges)
+- [dYdX](#dydx)
 - [Kyber](#kyber)
 - [Maker](#maker)
 - [RAY](#RAY)
@@ -32,6 +33,9 @@
 - https://app.santiment.net/assets/list?name=decentralized%20exchanges
 - https://dex.ag
 - https://pools.fyi
+
+## dYdX
+- https://defipulse.com/dydx
 
 ## Kyber
 - https://tracker.kyber.network
