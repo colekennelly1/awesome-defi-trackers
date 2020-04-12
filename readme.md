@@ -6,6 +6,7 @@
 
 ## Contents
 - [0x](#0x)
+- [Balance](#balance)
 - [Compound](#compound)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Kyber](#kyber)
@@ -18,6 +19,9 @@
 
 ## 0x
 - https://0xtracker.com
+
+## Balancer
+- https://explore.duneanalytics.com/dashboard/balancer
 
 ## Compound
 - https://compound.finance/markets
