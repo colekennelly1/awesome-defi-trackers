@@ -6,7 +6,7 @@
 
 ## Contents
 - [0x](#0x)
-- [Balance](#balance)
+- [Balancer](#balance)
 - [Compound](#compound)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [Kyber](#kyber)
