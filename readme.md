@@ -46,6 +46,7 @@
 - https://app.santiment.net/assets/list?name=decentralized%20exchanges
 - https://dex.ag
 - https://pools.fyi
+- https://explore.duneanalytics.com/dashboard/dex-metrics
 
 ## dYdX
 - https://defipulse.com/dydx
