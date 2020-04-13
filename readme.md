@@ -12,6 +12,7 @@
 - [Compound](#compound)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [dYdX](#dydx)
+- [Erasure](#erasure)
 - [Kyber](#kyber)
 - [Maker](#maker)
 - [RAY](#RAY)
@@ -48,6 +49,9 @@
 ## dYdX
 - https://defipulse.com/dydx
 - https://trade.dydx.exchange/markets
+
+## Erasure
+- https://defipulse.com/erasure
 
 ## Kyber
 - https://tracker.kyber.network
