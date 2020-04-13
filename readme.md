@@ -7,6 +7,7 @@
 ## Contents
 - [0x](#0x)
 - [Balancer](#balance)
+- [Bancor](#bancor)
 - [Compound](#compound)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [dYdX](#dydx)
@@ -24,6 +25,10 @@
 
 ## Balancer
 - https://explore.duneanalytics.com/dashboard/balancer
+
+## Bancor
+- https://defipulse.com/bancor
+- https://explore.duneanalytics.com/dashboard/bancor_1
 
 ## Compound
 - https://compound.finance/markets
