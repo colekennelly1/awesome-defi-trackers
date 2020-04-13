@@ -37,6 +37,7 @@
 
 ## dYdX
 - https://defipulse.com/dydx
+- https://trade.dydx.exchange/markets
 
 ## Kyber
 - https://tracker.kyber.network
