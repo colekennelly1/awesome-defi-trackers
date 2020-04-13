@@ -70,6 +70,7 @@
 - https://defipulse.com/maker
 - https://www.coingecko.com/en/earn/dai
 - https://dai-in-defi.com
+- https://explore.duneanalytics.com/dashboard/maker-dao---mcd
 
 ## RAY
 - https://staking.staked.us/ray
