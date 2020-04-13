@@ -13,6 +13,7 @@
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [dYdX](#dydx)
 - [Erasure](#erasure)
+- [InstaDApp](#instadapp)
 - [Kyber](#kyber)
 - [Maker](#maker)
 - [RAY](#RAY)
@@ -53,6 +54,9 @@
 ## Erasure
 - https://defipulse.com/erasure
 - https://twitter.com/ErasureStaked
+
+## InstaDApp        
+- https://defipulse.com/instadapp
 
 ## Kyber
 - https://tracker.kyber.network
