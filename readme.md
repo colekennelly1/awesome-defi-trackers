@@ -52,6 +52,7 @@
 
 ## Erasure
 - https://defipulse.com/erasure
+- https://twitter.com/ErasureStaked
 
 ## Kyber
 - https://tracker.kyber.network
