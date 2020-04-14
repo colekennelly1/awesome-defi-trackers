@@ -16,6 +16,7 @@
 - [InstaDApp](#instadapp)
 - [Kyber](#kyber)
 - [Maker](#maker)
+- [Nexus Mutual](#nexus-mutual)
 - [RAY](#RAY)
 - [Set Protocol](#set-protocol)
 - [Stablecoins](#stablecoins)
@@ -73,6 +74,9 @@
 - https://www.coingecko.com/en/earn/dai
 - https://dai-in-defi.com
 - https://explore.duneanalytics.com/dashboard/maker-dao---mcd
+
+## Nexus Mutual 
+- https://defipulse.com/nexus-mutual
 
 ## RAY
 - https://staking.staked.us/ray
