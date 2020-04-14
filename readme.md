@@ -48,6 +48,7 @@
 - https://dex.ag
 - https://pools.fyi
 - https://explore.duneanalytics.com/dashboard/dex-metrics
+- https://bloxy.info/list_dexes
 
 ## dYdX
 - https://defipulse.com/dydx
