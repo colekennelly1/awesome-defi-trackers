@@ -77,6 +77,7 @@
 
 ## Nexus Mutual 
 - https://defipulse.com/nexus-mutual
+- https://nexustracker.io
 
 ## RAY
 - https://staking.staked.us/ray
