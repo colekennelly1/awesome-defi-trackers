@@ -99,3 +99,4 @@
 - https://uniswap.info
 - https://defipulse.com/uniswap
 - https://explore.duneanalytics.com/dashboard/uniswap-usd-collected-fees-
+- https://explore.duneanalytics.com/dashboard/uniswap_1
