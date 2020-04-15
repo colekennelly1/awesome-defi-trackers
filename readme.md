@@ -41,6 +41,7 @@
 ## Compound
 - https://compound.finance/markets
 - https://defipulse.com/compound
+- https://public.tableau.com/profile/alethio.defi#!/vizhome/Compound/CompoundFinance
 
 ## Decentralized Exchanges
 - https://etherscan.io/dextracker
