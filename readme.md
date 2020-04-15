@@ -113,6 +113,7 @@
 - https://app.santiment.net/assets/list?name=stablecoins
 - https://coinmetrics.io/charts/#assets=usdt,usdteth,dai,usdc,busd,gusd,husd,sai,tusd,pax,usdttrx_log=false_left=SplyCur_zoom=1555027200000,1586563200000
 - https://debank.com/insight/stable
+- https://defistats.io/#/stablecoins/
 
 ## Staking 
 - https://staked.us/yields/
