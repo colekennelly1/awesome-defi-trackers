@@ -68,6 +68,7 @@
 ## General
 - https://defipulse.com/
 - http://defimarketcap.io/
+- https://public.tableau.com/profile/alethio.defi#!/vizhome/USDLockedinDeFi/USDLocked
 
 ## InstaDApp        
 - https://defipulse.com/instadapp
