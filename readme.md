@@ -51,6 +51,7 @@
 - https://pools.fyi
 - https://explore.duneanalytics.com/dashboard/dex-metrics
 - https://bloxy.info/list_dexes
+- https://debank.com/insight/dex
 
 ## dYdX
 - https://trade.dydx.exchange/markets
