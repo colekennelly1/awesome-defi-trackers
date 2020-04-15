@@ -74,6 +74,7 @@
 ## Lending
 - https://loanscan.io/loans
 - https://debank.com/insight/debt
+- https://public.tableau.com/profile/alethio.defi#!/vizhome/DeFiInterestRates/DeFiInterestRates
 
 ## Maker
 - https://mkrgov.science/
