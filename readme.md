@@ -78,6 +78,7 @@
 ## Kyber
 - https://tracker.kyber.network
 - https://defipulse.com/kyber
+- https://twitter.com/KyberTracker
 
 ## Lending
 - https://loanscan.io/loans
