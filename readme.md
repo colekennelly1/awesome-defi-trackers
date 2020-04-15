@@ -15,6 +15,7 @@
 - [Erasure](#erasure)
 - [InstaDApp](#instadapp)
 - [Kyber](#kyber)
+- [Lending](#lending)
 - [Maker](#maker)
 - [Nexus Mutual](#nexus-mutual)
 - [RAY](#RAY)
@@ -69,6 +70,9 @@
 ## Kyber
 - https://tracker.kyber.network
 - https://defipulse.com/kyber
+
+## Lending
+- https://loanscan.io/loans
 
 ## Maker
 - https://mkrgov.science/
