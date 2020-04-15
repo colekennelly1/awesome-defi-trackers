@@ -13,6 +13,7 @@
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [dYdX](#dydx)
 - [Erasure](#erasure)
+- [General](#general)
 - [InstaDApp](#instadapp)
 - [Kyber](#kyber)
 - [Lending](#lending)
@@ -63,6 +64,9 @@
 ## Erasure
 - https://defipulse.com/erasure
 - https://twitter.com/ErasureStaked
+
+## General
+- https://defipulse.com/
 
 ## InstaDApp        
 - https://defipulse.com/instadapp
