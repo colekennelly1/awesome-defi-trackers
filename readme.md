@@ -73,6 +73,7 @@
 
 ## Lending
 - https://loanscan.io/loans
+- https://debank.com/insight/debt
 
 ## Maker
 - https://mkrgov.science/
