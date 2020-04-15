@@ -76,6 +76,7 @@
 - https://www.coingecko.com/en/earn/dai
 - https://dai-in-defi.com
 - https://explore.duneanalytics.com/dashboard/maker-dao---mcd
+- https://public.tableau.com/profile/alethio.defi#!/vizhome/MCDDAILockedinDeFi/DAIlockedinDeFiplatforms
 
 ## Nexus Mutual 
 - https://defipulse.com/nexus-mutual
