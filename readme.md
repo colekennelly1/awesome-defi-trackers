@@ -54,6 +54,7 @@
 - https://explore.duneanalytics.com/dashboard/dex-metrics
 - https://bloxy.info/list_dexes
 - https://debank.com/insight/dex
+- https://graphs.santiment.net/dex_trades
 
 ## dYdX
 - https://trade.dydx.exchange/markets
