@@ -97,6 +97,7 @@
 - https://stakingrewards.com
 
 ## Synthetix
+- https://synthetix.exchange
 - https://dashboard.synthetix.io
 - https://defipulse.com/synthetix
 - http://synthetixstats.com
