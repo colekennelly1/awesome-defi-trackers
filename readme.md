@@ -1,7 +1,7 @@
 # awesome-defi-trackers [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 
-> A curated list of DeFi (decentralized finance) project trackers, analytics dashboards, and resources.
+> A curated list of DeFi (decentralized finance) project trackers, analytics dashboards, and resources. Fighting information asymmetry. 
 
 
 ## Contents
