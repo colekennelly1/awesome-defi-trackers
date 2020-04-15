@@ -88,6 +88,7 @@
 ## Set Protocol
 - https://defipulse.com/set-protocol
 - https://scout.cool/setprotocol/mainnet
+- https://public.tableau.com/profile/alethio.defi#!/vizhome/TokenSets/TokenSets
 
 ## Stablecoins
 - https://app.santiment.net/assets/list?name=stablecoins
