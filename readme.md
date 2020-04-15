@@ -28,6 +28,7 @@
 
 ## 0x
 - https://0xtracker.com
+- https://twitter.com/0xtracker
 
 ## Aave
 - https://defipulse.com/aave
