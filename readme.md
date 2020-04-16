@@ -56,6 +56,7 @@
 - https://bloxy.info/list_dexes
 - https://debank.com/insight/dex
 - https://graphs.santiment.net/dex_trades
+- https://dex.watch/
 
 ## dYdX
 - https://trade.dydx.exchange/markets
