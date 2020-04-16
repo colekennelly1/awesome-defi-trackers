@@ -124,6 +124,7 @@
 - https://stakingrewards.com
 
 ## Synthetix
+- https://dashboard.synthetix.io
 - https://synthetix.exchange
 - https://dashboard.synthetix.io
 - https://defipulse.com/synthetix
