@@ -91,6 +91,7 @@
 - https://tracker.kyber.network
 - https://defipulse.com/kyber
 - https://twitter.com/KyberTracker
+- https://www.coingecko.com/en/exchanges/kyber_network
 
 ## Lending
 - https://loanscan.io/loans
