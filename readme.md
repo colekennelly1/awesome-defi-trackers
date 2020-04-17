@@ -55,6 +55,7 @@
 - https://explore.duneanalytics.com/dashboard/dex-metrics
 - https://bloxy.info/list_dexes
 - https://bloxy.info/dex_deposits
+- https://bloxy.info/dex_trades
 - https://debank.com/insight/dex
 - https://graphs.santiment.net/dex_trades
 - https://dex.watch/
