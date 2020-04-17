@@ -62,7 +62,6 @@
 - https://dex.watch/
 - https://stat.bloxy.info/superset/dashboard/arbitrage
 
-
 ## dYdX
 - https://trade.dydx.exchange/markets
 - https://defipulse.com/dydx
@@ -75,6 +74,7 @@
 
 ## General
 - https://defipulse.com/
+- https://etherscan.io/defi-leaderboard
 - http://defimarketcap.io/
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/USDLockedinDeFi/USDLocked
 - https://defiprime.com/
@@ -91,6 +91,7 @@
 
 ## Lending
 - https://loanscan.io/loans
+- https://etherscan.io/loantracker
 - https://debank.com/insight/debt
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/DeFiInterestRates/DeFiInterestRates
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/BorrowVolumeDashboard/BorrowVolumeonMajorLendingPlatforms
