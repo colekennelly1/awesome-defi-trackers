@@ -50,6 +50,7 @@
 
 ## Decentralized Exchanges
 - https://etherscan.io/dextracker
+- https://etherscan.io/orderbooks
 - https://app.santiment.net/assets/list?name=decentralized%20exchanges
 - https://dex.ag
 - https://pools.fyi
