@@ -62,6 +62,7 @@
 - https://graphs.santiment.net/dex_trades
 - https://dex.watch/
 - https://stat.bloxy.info/superset/dashboard/arbitrage
+- https://dapptotal.com/dex
 
 ## dYdX
 - https://trade.dydx.exchange/markets
@@ -133,6 +134,7 @@
 - https://debank.com/insight/stable
 - https://defistats.io/#/stablecoins/
 - https://coincodex.com/stablecoins/
+- https://dapptotal.com/stablecoins
 
 ## Staking 
 - https://staked.us/yields/
