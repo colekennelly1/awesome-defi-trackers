@@ -103,6 +103,7 @@
 - https://mkrgov.science/
 - https://daistats.com/
 - http://dai.descipher.io/
+- https://makerdao.descipher.io/
 - http://makervaults.descipher.io/
 - https://defipulse.com/maker
 - https://www.coingecko.com/en/earn/dai
