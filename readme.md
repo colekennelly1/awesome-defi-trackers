@@ -115,6 +115,7 @@
 - https://defiexplore.com/stats
 - https://daiauctions.com/
 - https://twitter.com/MakerDaiBot
+- https://nomics.com/assets/dai-dai#statistics
 
 ## Nexus Mutual 
 - https://defipulse.com/nexus-mutual
