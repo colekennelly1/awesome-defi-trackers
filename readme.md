@@ -81,6 +81,7 @@
 - https://defiprime.com/
 - https://whois0x.io/defimarket
 - https://defiscan.io/
+- https://dapptotal.com/defi
 
 ## InstaDApp        
 - https://defipulse.com/instadapp
