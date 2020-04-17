@@ -114,6 +114,7 @@
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/MCDDAILockedinDeFi/DAIlockedinDeFiplatforms
 - https://defiexplore.com/stats
 - https://daiauctions.com/
+- https://twitter.com/MakerDaiBot
 
 ## Nexus Mutual 
 - https://defipulse.com/nexus-mutual
