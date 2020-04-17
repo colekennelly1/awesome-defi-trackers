@@ -141,6 +141,7 @@
 - https://defipulse.com/synthetix
 - http://synthetixstats.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Synthetix/Synthetix
+- https://scout.cool/synthetix/mainnet
 
 ## Uniswap
 - https://uniswap.info
