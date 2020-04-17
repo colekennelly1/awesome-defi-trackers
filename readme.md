@@ -54,10 +54,12 @@
 - https://pools.fyi
 - https://explore.duneanalytics.com/dashboard/dex-metrics
 - https://bloxy.info/list_dexes
+- https://bloxy.info/dex_deposits
 - https://debank.com/insight/dex
 - https://graphs.santiment.net/dex_trades
 - https://dex.watch/
 - https://stat.bloxy.info/superset/dashboard/arbitrage
+
 
 ## dYdX
 - https://trade.dydx.exchange/markets
