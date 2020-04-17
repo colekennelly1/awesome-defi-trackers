@@ -43,6 +43,7 @@
 
 ## Compound
 - https://compound.finance/markets
+- https://compound.finance/governance/leaderboard
 - https://defipulse.com/compound
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Compound/CompoundFinance
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/CompoundLiquidity/CompoundLiquidity
