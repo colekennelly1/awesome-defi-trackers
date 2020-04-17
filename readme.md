@@ -57,6 +57,7 @@
 - https://debank.com/insight/dex
 - https://graphs.santiment.net/dex_trades
 - https://dex.watch/
+- https://stat.bloxy.info/superset/dashboard/arbitrage
 
 ## dYdX
 - https://trade.dydx.exchange/markets
