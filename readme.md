@@ -74,6 +74,7 @@
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/USDLockedinDeFi/USDLocked
 - https://defiprime.com/
 - https://whois0x.io/defimarket
+- https://defiscan.io/
 
 ## InstaDApp        
 - https://defipulse.com/instadapp
