@@ -87,6 +87,7 @@
 - https://whois0x.io/defimarket
 - https://defiscan.io/
 - https://dapptotal.com/defi
+- https://ethdashboard.com/
 
 ## InstaDApp        
 - https://defipulse.com/instadapp
