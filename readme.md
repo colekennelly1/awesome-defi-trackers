@@ -152,7 +152,6 @@
 ## Synthetix
 - https://dashboard.synthetix.io
 - https://synthetix.exchange
-- https://dashboard.synthetix.io
 - https://defipulse.com/synthetix
 - http://synthetixstats.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Synthetix/Synthetix
