@@ -130,6 +130,7 @@
 - https://twitter.com/MakerDaiBot
 - https://nomics.com/assets/dai-dai#statistics
 - https://www.tokenterminal.xyz/protocol/MakerDAO
+- https://bloxy.info/token_holders/0x6b175474e89094c44da98b954eedeac495271d0f
 
 ## Nexus Mutual 
 - https://defipulse.com/nexus-mutual
