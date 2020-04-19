@@ -51,6 +51,7 @@
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Compound/CompoundFinance
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/CompoundLiquidity/CompoundLiquidity
 - https://mattsolomon.dev/compound-rates
+- https://www.tokenterminal.xyz/protocol/Compound
 
 ## Decentralized Exchanges
 - https://etherscan.io/dextracker
