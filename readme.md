@@ -76,7 +76,6 @@
 ## dYdX
 - https://trade.dydx.exchange/markets
 - https://defipulse.com/dydx
-- https://trade.dydx.exchange/markets
 - https://explore.duneanalytics.com/dashboard/dydx_4
 - https://www.tokenterminal.xyz/protocol/dYdX
 
