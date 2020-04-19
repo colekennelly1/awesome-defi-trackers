@@ -30,6 +30,7 @@
 ## 0x
 - https://0xtracker.com
 - https://twitter.com/0xtracker
+- https://www.tokenterminal.xyz/protocol/0x
 
 ## Aave
 - https://defipulse.com/aave
@@ -98,6 +99,7 @@
 - https://defipulse.com/kyber
 - https://twitter.com/KyberTracker
 - https://www.coingecko.com/en/exchanges/kyber_network
+- https://www.tokenterminal.xyz/protocol/Kyber%20Network
 
 ## Lending
 - https://loanscan.io/loans
@@ -123,6 +125,7 @@
 - https://daiauctions.com/
 - https://twitter.com/MakerDaiBot
 - https://nomics.com/assets/dai-dai#statistics
+- https://www.tokenterminal.xyz/protocol/MakerDAO
 
 ## Nexus Mutual 
 - https://defipulse.com/nexus-mutual
@@ -156,6 +159,7 @@
 - http://synthetixstats.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Synthetix/Synthetix
 - https://scout.cool/synthetix/mainnet
+- https://www.tokenterminal.xyz/protocol/Synthetix
 
 ## Uniswap
 - https://uniswap.info
