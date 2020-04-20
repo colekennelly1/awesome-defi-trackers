@@ -187,6 +187,7 @@
 
 ## Terra
 - https://station.terra.money/
+- https://www.tokenterminal.xyz/protocol/Terra
 
 ## Uniswap
 - https://uniswap.info
