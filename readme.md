@@ -33,10 +33,12 @@
 - https://0xtracker.com
 - https://twitter.com/0xtracker
 - https://www.tokenterminal.xyz/protocol/0x
+- https://defimarketcap.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498
 
 ## Aave
 - https://defipulse.com/aave
 - https://aavewatch.now.sh
+- https://defimarketcap.io/token/0x80fb784b7ed66730e8b1dbd9820afd29931aab03
 
 ## Balancer
 - https://explore.duneanalytics.com/dashboard/balancer
@@ -44,6 +46,7 @@
 ## Bancor
 - https://defipulse.com/bancor
 - https://explore.duneanalytics.com/dashboard/bancor_1
+- https://defimarketcap.io/token/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c
 
 ## Compound
 - https://compound.finance/markets
@@ -105,6 +108,7 @@
 - https://twitter.com/KyberTracker
 - https://www.coingecko.com/en/exchanges/kyber_network
 - https://www.tokenterminal.xyz/protocol/Kyber%20Network
+- https://defimarketcap.io/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200
 
 ## Lending
 - https://loanscan.io/loans
@@ -132,6 +136,7 @@
 - https://nomics.com/assets/dai-dai#statistics
 - https://www.tokenterminal.xyz/protocol/MakerDAO
 - https://bloxy.info/token_holders/0x6b175474e89094c44da98b954eedeac495271d0f
+- https://defimarketcap.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2
 
 ## Nexus Mutual 
 - https://defipulse.com/nexus-mutual
