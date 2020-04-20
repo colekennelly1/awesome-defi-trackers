@@ -82,6 +82,7 @@
 ## Erasure
 - https://defipulse.com/erasure
 - https://twitter.com/ErasureStaked
+- https://explore.duneanalytics.com/dashboard/erasure_2
 
 ## General
 - https://defipulse.com/
