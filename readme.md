@@ -153,6 +153,7 @@
 - https://nexustracker.io
 
 ## Pool Together
+- https://www.pooltogether.com/#stats
 - https://www.tokenterminal.xyz/protocol/Pool%20Together
 
 ## RAY
