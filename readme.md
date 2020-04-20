@@ -166,7 +166,7 @@
 ## Melon
 
 - https://defipulse.com/melon
-- https://melonproject.com
+- https://melonprotocol.com
 - https://melon.avantgarde.finance
 - https://monitoring.melon.network
 
