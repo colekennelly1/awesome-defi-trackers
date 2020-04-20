@@ -38,7 +38,7 @@
 ## Aave
 - https://defipulse.com/aave
 - https://aavewatch.now.sh
-- https://defimarketcap.io/token/0x80fb784b7ed66730e8b1dbd9820afd29931aab03
+- https://defimarketcap.io/protocol/aave
 
 ## Balancer
 - https://explore.duneanalytics.com/dashboard/balancer
@@ -47,6 +47,7 @@
 - https://defipulse.com/bancor
 - https://explore.duneanalytics.com/dashboard/bancor_1
 - https://defimarketcap.io/token/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c
+- https://defimarketcap.io/protocol/bancor
 
 ## Compound
 - https://compound.finance/markets
@@ -56,6 +57,7 @@
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/CompoundLiquidity/CompoundLiquidity
 - https://mattsolomon.dev/compound-rates
 - https://www.tokenterminal.xyz/protocol/Compound
+- https://defimarketcap.io/protocol/compound
 
 ## Decentralized Exchanges
 - https://etherscan.io/dextracker
@@ -153,6 +155,7 @@
 - https://defipulse.com/set-protocol
 - https://scout.cool/setprotocol/mainnet
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/TokenSets/TokenSets
+- https://defimarketcap.io/protocol/tokenset
 
 ## Stablecoins
 - https://app.santiment.net/assets/list?name=stablecoins
@@ -161,6 +164,7 @@
 - https://defistats.io/#/stablecoins/
 - https://coincodex.com/stablecoins/
 - https://dapptotal.com/stablecoins
+- https://defimarketcap.io/protocol/stablecoin
 
 ## Staking 
 - https://staked.us/yields/
@@ -185,3 +189,5 @@
 - https://explore.duneanalytics.com/dashboard/uniswap_1
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Uniswap/UniswapOverview
 - https://zumzoom.github.io/analytics/uniswap/roi/
+- https://defimarketcap.io/protocol/uniswap
+
