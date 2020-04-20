@@ -89,6 +89,7 @@
 - https://defipulse.com/erasure
 - https://twitter.com/ErasureStaked
 - https://explore.duneanalytics.com/dashboard/erasure_2
+- https://www.tokenterminal.xyz/protocol/Erasure
 
 ## Fulcrum
 - https://defipulse.com/bzx
