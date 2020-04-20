@@ -40,6 +40,7 @@
 - https://defipulse.com/aave
 - https://aavewatch.now.sh
 - https://defimarketcap.io/protocol/aave
+- https://www.tokenterminal.xyz/protocol/Aave
 
 ## Balancer
 - https://explore.duneanalytics.com/dashboard/balancer
