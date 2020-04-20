@@ -14,6 +14,7 @@
 - [dForce](#dforce)
 - [dYdX](#dydx)
 - [Erasure](#erasure)
+- [Fulcrum](#fulcrum)
 - [General](#general)
 - [InstaDApp](#instadapp)
 - [Kyber](#kyber)
@@ -88,6 +89,10 @@
 - https://defipulse.com/erasure
 - https://twitter.com/ErasureStaked
 - https://explore.duneanalytics.com/dashboard/erasure_2
+
+## Fulcrum
+- https://defipulse.com/bzx
+- https://defimarketcap.io/protocol/fulcrum
 
 ## General
 - https://defipulse.com/
