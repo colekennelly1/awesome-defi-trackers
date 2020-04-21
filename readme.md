@@ -47,6 +47,7 @@
 - https://explore.duneanalytics.com/dashboard/balancer
 
 ## Bancor
+- https://www.bancor.network/
 - https://defipulse.com/bancor
 - https://explore.duneanalytics.com/dashboard/bancor_1
 - https://defimarketcap.io/token/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c
