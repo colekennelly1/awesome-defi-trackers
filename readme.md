@@ -120,6 +120,7 @@
 - https://www.coingecko.com/en/exchanges/kyber_network
 - https://www.tokenterminal.xyz/protocol/Kyber%20Network
 - https://defimarketcap.io/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200
+- https://amberdata.io/addresses/0xdd974d5c2e2928dea5f71b9825b8b646686bd200/metrics
 
 ## Lending
 - https://loanscan.io/loans
