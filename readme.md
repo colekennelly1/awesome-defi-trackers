@@ -153,6 +153,7 @@
 - https://defimarketcap.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359
 - https://makerburn.com/#/
 - https://catflip.co/changelog
+- https://vote.makerdao.com/polling
 
 ## Melon
 - https://defipulse.com/melon
