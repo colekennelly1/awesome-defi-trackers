@@ -133,6 +133,7 @@
 - https://defirate.com/lend/
 
 ## Maker
+- https://mkr.tools/
 - https://mkrgov.science/
 - https://daistats.com/
 - http://dai.descipher.io/
