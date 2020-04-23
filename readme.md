@@ -130,6 +130,7 @@
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/BorrowVolumeDashboard/BorrowVolumeonMajorLendingPlatforms
 - https://defiprime.com/defi-rates
 - https://coininterestrates.com/
+- https://defirate.com/lend/
 
 ## Maker
 - https://mkrgov.science/
