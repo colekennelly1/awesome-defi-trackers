@@ -155,6 +155,7 @@
 - https://catflip.co/changelog
 - https://vote.makerdao.com/polling
 - https://dsr.fyi/
+- https://daipeg.com/
 
 ## Melon
 - https://defipulse.com/melon
