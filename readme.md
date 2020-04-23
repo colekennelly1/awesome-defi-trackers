@@ -154,6 +154,7 @@
 - https://makerburn.com/#/
 - https://catflip.co/changelog
 - https://vote.makerdao.com/polling
+- https://dsr.fyi/
 
 ## Melon
 - https://defipulse.com/melon
