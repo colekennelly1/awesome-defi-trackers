@@ -45,6 +45,7 @@
 
 ## Balancer
 - https://explore.duneanalytics.com/dashboard/balancer
+- https://defimarketcap.io/protocol/balancer
 
 ## Bancor
 - https://www.bancor.network/
@@ -172,6 +173,7 @@
 ## Pool Together
 - https://www.pooltogether.com/#stats
 - https://www.tokenterminal.xyz/protocol/Pool%20Together
+- https://defimarketcap.io/protocol/pool-together
 
 ## RAY
 - https://staking.staked.us/ray
