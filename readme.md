@@ -203,6 +203,7 @@
 - https://scout.cool/synthetix/mainnet
 - https://www.tokenterminal.xyz/protocol/Synthetix
 - https://coinmarketcap.com/currencies/susd/
+- https://twitter.com/snxwhalewatch
 
 ## Terra
 - https://station.terra.money/
