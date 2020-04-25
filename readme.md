@@ -207,6 +207,7 @@
 ## Terra
 - https://station.terra.money/
 - https://www.tokenterminal.xyz/protocol/Terra
+- https://www.coingecko.com/en/coins/terra-luna
 
 ## Uniswap
 - https://uniswap.info
