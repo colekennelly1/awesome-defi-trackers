@@ -158,6 +158,7 @@
 - https://vote.makerdao.com/polling
 - https://dsr.fyi/
 - https://daipeg.com/
+- https://explore.duneanalytics.com/dashboard/dai_3
 
 ## Melon
 - https://defipulse.com/melon
