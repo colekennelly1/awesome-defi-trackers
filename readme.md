@@ -79,6 +79,7 @@
 - https://dex.watch/
 - https://stat.bloxy.info/superset/dashboard/arbitrage
 - https://dapptotal.com/dex
+- https://twitter.com/DexWars
 
 ## dForce
 - https://defipulse.com/dforce
