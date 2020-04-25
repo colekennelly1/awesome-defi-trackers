@@ -62,6 +62,7 @@
 - https://mattsolomon.dev/compound-rates
 - https://www.tokenterminal.xyz/protocol/Compound
 - https://defimarketcap.io/protocol/compound
+- https://twitter.com/CompoundBot
 
 ## Decentralized Exchanges
 - https://etherscan.io/dextracker
