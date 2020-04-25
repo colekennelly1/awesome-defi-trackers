@@ -202,6 +202,7 @@
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Synthetix/Synthetix
 - https://scout.cool/synthetix/mainnet
 - https://www.tokenterminal.xyz/protocol/Synthetix
+- https://coinmarketcap.com/currencies/susd/
 
 ## Terra
 - https://station.terra.money/
