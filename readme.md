@@ -113,6 +113,7 @@
 - https://ethdashboard.com/
 - https://explore.duneanalytics.com/dashboard/defi-growth
 - https://www.tokenterminal.xyz/
+- https://twitter.com/defilocked
 
 ## InstaDApp        
 - https://defipulse.com/instadapp
