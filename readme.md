@@ -179,6 +179,7 @@
 ## RAY
 - https://staking.staked.us/ray
 - https://defipulse.com/robo-advisor-for-yield
+- https://twitter.com/RoboForYield
 
 ## Set Protocol
 - https://defipulse.com/set-protocol
