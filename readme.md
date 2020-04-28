@@ -114,6 +114,7 @@
 - https://explore.duneanalytics.com/dashboard/defi-growth
 - https://www.tokenterminal.xyz/
 - https://twitter.com/defilocked
+- https://skew.com/dashboard/decentralized-finance
 
 ## InstaDApp        
 - https://defipulse.com/instadapp
@@ -195,6 +196,7 @@
 - https://coincodex.com/stablecoins/
 - https://dapptotal.com/stablecoins
 - https://defimarketcap.io/protocol/stablecoin
+- https://skew.com/dashboard/stable-coins
 
 ## Staking 
 - https://staked.us/yields/
