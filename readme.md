@@ -66,6 +66,7 @@
 - https://www.tokenterminal.xyz/protocol/Compound
 - https://defimarketcap.io/protocol/compound
 - https://twitter.com/CompoundBot
+- https://etherscan.io/loantracker#compoundloan
 
 ## Decentralized Exchanges
 - https://etherscan.io/dextracker
@@ -118,6 +119,7 @@
 - https://twitter.com/defilocked
 - https://skew.com/dashboard/decentralized-finance
 - https://explore.duneanalytics.com/dashboard/defi-users-over-time
+- https://etherscan.io/loantracker
 
 ## InstaDApp        
 - https://defipulse.com/instadapp
@@ -167,6 +169,7 @@
 - https://dsr.fyi/
 - https://daipeg.com/
 - https://explore.duneanalytics.com/dashboard/dai_3
+- https://etherscan.io/loantracker#makerloan
 
 ## Melon
 - https://defipulse.com/melon
