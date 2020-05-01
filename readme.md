@@ -116,6 +116,7 @@
 - https://www.tokenterminal.xyz/
 - https://twitter.com/defilocked
 - https://skew.com/dashboard/decentralized-finance
+- https://explore.duneanalytics.com/dashboard/defi-users-over-time
 
 ## InstaDApp        
 - https://defipulse.com/instadapp
