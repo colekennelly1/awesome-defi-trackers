@@ -36,6 +36,7 @@
 - https://twitter.com/0xtracker
 - https://www.tokenterminal.xyz/protocol/0x
 - https://defimarketcap.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498
+- https://www.stateofthedapps.com/dapps/0x
 
 ## Aave
 - https://defipulse.com/aave
@@ -43,6 +44,7 @@
 - https://defimarketcap.io/protocol/aave
 - https://www.tokenterminal.xyz/protocol/Aave
 - https://explore.duneanalytics.com/dashboard/aave_1
+- https://www.stateofthedapps.com/dapps/aave-protocol
 
 ## Balancer
 - https://explore.duneanalytics.com/dashboard/balancer
@@ -67,6 +69,7 @@
 - https://defimarketcap.io/protocol/compound
 - https://twitter.com/CompoundBot
 - https://etherscan.io/loantracker#compoundloan
+- https://www.stateofthedapps.com/dapps/compound
 
 ## Decentralized Exchanges
 - https://etherscan.io/dextracker
@@ -133,6 +136,8 @@
 - https://www.tokenterminal.xyz/protocol/Kyber%20Network
 - https://defimarketcap.io/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200
 - https://amberdata.io/addresses/0xdd974d5c2e2928dea5f71b9825b8b646686bd200/metrics
+- https://www.stateofthedapps.com/dapps/kybernetwork
+- https://dappradar.com/app/266/kyber
 
 ## Lending
 - https://loanscan.io/loans
@@ -171,6 +176,7 @@
 - https://daipeg.com/
 - https://explore.duneanalytics.com/dashboard/dai_3
 - https://etherscan.io/loantracker#makerloan
+- https://www.stateofthedapps.com/dapps/makerdao
 
 ## Melon
 - https://defipulse.com/melon
@@ -220,6 +226,7 @@
 - https://www.tokenterminal.xyz/protocol/Synthetix
 - https://coinmarketcap.com/currencies/susd/
 - https://twitter.com/snxwhalewatch
+- https://www.stateofthedapps.com/dapps/synthetix
 
 ## Terra
 - https://station.terra.money/
@@ -234,4 +241,6 @@
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Uniswap/UniswapOverview
 - https://zumzoom.github.io/analytics/uniswap/roi/
 - https://defimarketcap.io/protocol/uniswap
+- https://www.stateofthedapps.com/dapps/uniswap
+- https://dappradar.com/app/1602/uniswap
 
