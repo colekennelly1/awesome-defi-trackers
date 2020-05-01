@@ -190,6 +190,7 @@
 - https://scout.cool/setprotocol/mainnet
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/TokenSets/TokenSets
 - https://defimarketcap.io/protocol/tokenset
+- https://tokenterminal.xyz/protocol/Set
 
 ## Stablecoins
 - https://app.santiment.net/assets/list?name=stablecoins
