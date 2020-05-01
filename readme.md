@@ -120,6 +120,7 @@
 - https://skew.com/dashboard/decentralized-finance
 - https://explore.duneanalytics.com/dashboard/defi-users-over-time
 - https://etherscan.io/loantracker
+- https://ethereumprice.org/defi-charts/
 
 ## InstaDApp        
 - https://defipulse.com/instadapp
