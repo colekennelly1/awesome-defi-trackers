@@ -253,4 +253,4 @@ DISCLAIMER: Nothing contained in this Github repository should be considered fin
 - https://dappradar.com/app/1602/uniswap
 
 
-DISCLAIMER: Nothing contained in this Github repository should be considered financial or investment advice.
+Submit a PR to make a contribution. 
