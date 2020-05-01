@@ -250,3 +250,4 @@
 - https://www.stateofthedapps.com/dapps/uniswap
 - https://dappradar.com/app/1602/uniswap
 
+DISCLAIMER: Nothing contained in this Github repository should be considered financial or investment advice.
