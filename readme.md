@@ -3,7 +3,7 @@
 
 > A curated list of DeFi (decentralized finance) project trackers, analytics dashboards, and resources. Fighting information asymmetry. 
 
-DISCLAIMER: Nothing contained in this Github repository should be considered financial or investment advice.
+DISCLAIMER: Nothing contained in this repository should be considered financial or investment advice.
 
 
 ## Contents
