@@ -128,7 +128,6 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://twitter.com/defilocked
 - https://skew.com/dashboard/decentralized-finance
 - https://explore.duneanalytics.com/dashboard/defi-users-over-time
-- https://etherscan.io/loantracker
 - https://ethereumprice.org/defi-charts/
 
 ## InstaDApp        
