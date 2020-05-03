@@ -48,6 +48,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://www.tokenterminal.xyz/protocol/Aave
 - https://explore.duneanalytics.com/dashboard/aave_1
 - https://www.stateofthedapps.com/dapps/aave-protocol
+- https://dappradar.com/app/1823/aave
 
 ## Balancer
 - https://explore.duneanalytics.com/dashboard/balancer
@@ -73,6 +74,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://twitter.com/CompoundBot
 - https://etherscan.io/loantracker#compoundloan
 - https://www.stateofthedapps.com/dapps/compound
+- https://dappradar.com/app/989/compound
 
 ## Decentralized Exchanges
 - https://etherscan.io/dextracker
@@ -99,6 +101,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defipulse.com/dydx
 - https://explore.duneanalytics.com/dashboard/dydx_4
 - https://www.tokenterminal.xyz/protocol/dYdX
+- https://dappradar.com/app/1538/dydx
 
 ## Erasure
 - https://defipulse.com/erasure
@@ -180,6 +183,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://explore.duneanalytics.com/dashboard/dai_3
 - https://etherscan.io/loantracker#makerloan
 - https://www.stateofthedapps.com/dapps/makerdao
+- https://dappradar.com/app/791/makerdao
 
 ## Melon
 - https://defipulse.com/melon
@@ -230,6 +234,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://coinmarketcap.com/currencies/susd/
 - https://twitter.com/snxwhalewatch
 - https://www.stateofthedapps.com/dapps/synthetix
+- https://dappradar.com/app/1810/synthetix
 
 ## Tokenlon
 - https://www.tokenlon.im/leaderboard
@@ -250,6 +255,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://zumzoom.github.io/analytics/uniswap/roi/
 - https://defimarketcap.io/protocol/uniswap
 - https://www.stateofthedapps.com/dapps/uniswap
+- https://dappradar.com/app/1602/uniswap
 - https://dappradar.com/app/1602/uniswap
 
 
