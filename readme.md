@@ -76,6 +76,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://etherscan.io/loantracker#compoundloan
 - https://www.stateofthedapps.com/dapps/compound
 - https://dappradar.com/app/989/compound
+- https://www.curiousgiraffe.io/compound/
 
 ## Decentralized Exchanges
 - https://etherscan.io/dextracker
