@@ -146,6 +146,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://amberdata.io/addresses/0xdd974d5c2e2928dea5f71b9825b8b646686bd200/metrics
 - https://www.stateofthedapps.com/dapps/kybernetwork
 - https://dappradar.com/app/266/kyber
+- https://curiousgiraffe.io/kyberswap
 
 ## Lending
 - https://loanscan.io/loans
@@ -156,6 +157,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defiprime.com/defi-rates
 - https://coininterestrates.com/
 - https://defirate.com/lend/
+- https://loanlist.io
 
 ## Maker
 - https://mkr.tools/
@@ -185,6 +187,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://etherscan.io/loantracker#makerloan
 - https://www.stateofthedapps.com/dapps/makerdao
 - https://dappradar.com/app/791/makerdao
+- http://flops.live
 
 ## Melon
 - https://defipulse.com/melon
