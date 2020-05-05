@@ -53,6 +53,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## Balancer
 - https://explore.duneanalytics.com/dashboard/balancer
 - https://defimarketcap.io/protocol/balancer
+- https://pools.balancer.exchange/#/list
 
 ## Bancor
 - https://www.bancor.network/
