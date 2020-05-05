@@ -191,6 +191,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 
 ## Melon
 - https://defipulse.com/melon
+- https://monitoring.melon.network
 
 ## Nexus Mutual 
 - https://defipulse.com/nexus-mutual
