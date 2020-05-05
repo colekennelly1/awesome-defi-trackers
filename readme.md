@@ -261,6 +261,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defimarketcap.io/protocol/uniswap
 - https://www.stateofthedapps.com/dapps/uniswap
 - https://dappradar.com/app/1602/uniswap
+- https://www.coingecko.com/en/exchanges/uniswap
 
 
 Submit a PR to make a contribution. 
