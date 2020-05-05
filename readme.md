@@ -104,6 +104,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://explore.duneanalytics.com/dashboard/dydx_4
 - https://www.tokenterminal.xyz/protocol/dYdX
 - https://dappradar.com/app/1538/dydx
+- https://scout.cool/dydxprotocol/mainnet
 
 ## Erasure
 - https://defipulse.com/erasure
