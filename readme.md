@@ -29,6 +29,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - [Set Protocol](#set-protocol)
 - [Stablecoins](#stablecoins)
 - [Staking](#staking)
+- [Strike](#Strike)
 - [Synthetix](#synthetix)
 - [Terra](#terra)
 - [Tokenlon](#tokenlon)
@@ -228,6 +229,9 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## Staking 
 - https://staked.us/yields/
 - https://stakingrewards.com
+
+## Strike
+- https://strike.network/
 
 ## Synthetix
 - https://dashboard.synthetix.io
