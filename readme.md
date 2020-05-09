@@ -24,6 +24,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - [Maker](#maker)
 - [Melon](#melon)
 - [Nexus Mutual](#nexus-mutual)
+- [Oracles](#oracles)
 - [Pool Together](#pool-together)
 - [RAY](#RAY)
 - [Set Protocol](#set-protocol)
@@ -197,6 +198,9 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## Nexus Mutual 
 - https://defipulse.com/nexus-mutual
 - https://nexustracker.io
+
+## Oracles 
+- https://oracles.club/
 
 ## Pool Together
 - https://www.pooltogether.com/#stats
