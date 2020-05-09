@@ -214,6 +214,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/TokenSets/TokenSets
 - https://defimarketcap.io/protocol/tokenset
 - https://tokenterminal.xyz/protocol/Set
+- https://tokenviz.io/
 
 ## Stablecoins
 - https://app.santiment.net/assets/list?name=stablecoins
