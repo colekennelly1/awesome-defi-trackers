@@ -165,6 +165,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://coininterestrates.com/
 - https://defirate.com/lend/
 - https://loanlist.io
+- https://coininterestrates.com/
 
 ## Maker
 - https://mkr.tools/
