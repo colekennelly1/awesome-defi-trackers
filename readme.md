@@ -99,6 +99,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://dapptotal.com/dex
 - https://twitter.com/DexWars
 - https://1inch.exchange
+- https://dapptotal.com/dex
 
 ## dForce
 - https://defipulse.com/dforce
