@@ -195,6 +195,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://dappradar.com/app/791/makerdao
 - http://flops.live
 - https://defi.ai/dai
+- https://graphs.santiment.net/makerdao-pro#social_stats
 
 ## Melon
 - https://defipulse.com/melon
