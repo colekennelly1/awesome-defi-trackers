@@ -95,6 +95,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://stat.bloxy.info/superset/dashboard/arbitrage
 - https://dapptotal.com/dex
 - https://twitter.com/DexWars
+- https://1inch.exchange
 
 ## dForce
 - https://defipulse.com/dforce
