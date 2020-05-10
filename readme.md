@@ -166,6 +166,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://daistats.com/
 - http://dai.descipher.io/
 - https://makerdao.descipher.io/
+- http://makervaults.descipher.io/
 - https://defipulse.com/maker
 - https://www.coingecko.com/en/earn/dai
 - https://dai-in-defi.com
