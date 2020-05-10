@@ -148,6 +148,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://www.stateofthedapps.com/dapps/kybernetwork
 - https://dappradar.com/app/266/kyber
 - https://curiousgiraffe.io/kyberswap
+- https://twitter.com/KyberStatsBot
 
 ## Lending
 - https://loanscan.io/loans
