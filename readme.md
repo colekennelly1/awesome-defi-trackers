@@ -89,6 +89,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://bloxy.info/list_dexes
 - https://bloxy.info/dex_deposits
 - https://bloxy.info/dex_trades
+- https://stat.bloxy.info/superset/dashboard/arbitrage
 - https://debank.com/insight/dex
 - https://graphs.santiment.net/dex_trades
 - https://dex.watch/
