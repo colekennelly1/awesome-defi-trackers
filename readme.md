@@ -135,6 +135,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://skew.com/dashboard/decentralized-finance
 - https://explore.duneanalytics.com/dashboard/defi-users-over-time
 - https://ethereumprice.org/defi-charts/
+- https://whois0x.io/defimarket
 
 ## InstaDApp        
 - https://defipulse.com/instadapp
@@ -273,6 +274,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://dappradar.com/app/1602/uniswap
 - https://www.coingecko.com/en/exchanges/uniswap
 - https://twitter.com/Uniswap_Bot
+- https://uniswapdex.com/
 
 
 Submit a PR to make a contribution. 
