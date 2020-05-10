@@ -41,6 +41,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://www.tokenterminal.xyz/protocol/0x
 - https://defimarketcap.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498
 - https://www.stateofthedapps.com/dapps/0x
+- https://amberdata.io/addresses/0xe41d2489571d322189246dafa5ebde1f4699f498/metrics
 
 ## Aave
 - https://defipulse.com/aave
@@ -50,6 +51,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://explore.duneanalytics.com/dashboard/aave_1
 - https://www.stateofthedapps.com/dapps/aave-protocol
 - https://dappradar.com/app/1823/aave
+- https://amberdata.io/addresses/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03/metrics
 
 ## Balancer
 - https://explore.duneanalytics.com/dashboard/balancer
@@ -196,6 +198,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - http://flops.live
 - https://defi.ai/dai
 - https://graphs.santiment.net/makerdao-pro#social_stats
+- https://amberdata.io/addresses/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2/metrics
 
 ## Melon
 - https://defipulse.com/melon
@@ -252,6 +255,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://twitter.com/snxwhalewatch
 - https://www.stateofthedapps.com/dapps/synthetix
 - https://dappradar.com/app/1810/synthetix
+- https://amberdata.io/addresses/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f/metrics
 
 ## Tokenlon
 - https://www.tokenlon.im/leaderboard
