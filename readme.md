@@ -105,6 +105,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://twitter.com/DexWars
 - https://1inch.exchange
 - https://dapptotal.com/dex
+- https://www.coingecko.com/en/exchanges/decentralized
 
 ## dForce
 - https://defipulse.com/dforce
