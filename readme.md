@@ -133,6 +133,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://etherscan.io/defi-leaderboard
 - http://defimarketcap.io/
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/USDLockedinDeFi/USDLocked
+- https://aleth.io/data/defi/evolution-defi-platforms
 - https://defiprime.com/
 - https://whois0x.io/defimarket
 - https://defiscan.io/
