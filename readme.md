@@ -207,6 +207,8 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defi.ai/dai
 - https://graphs.santiment.net/makerdao-pro#social_stats
 - https://amberdata.io/addresses/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2/metrics
+- https://pools.fyi/#/returns/0x2c4bd064b998838076fa341a83d007fc2fa50957
+- https://pools.fyi/#/returns/0x2a1530c4c41db0b0b2bb646cb5eb1a67b7158667
 
 ## Melon
 - https://defipulse.com/melon
@@ -263,7 +265,10 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://twitter.com/snxwhalewatch
 - https://www.stateofthedapps.com/dapps/synthetix
 - https://dappradar.com/app/1810/synthetix
-- https://amberdata.io/addresses/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f/metrics
+- https://amberdata.io/addresses/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f/metrics\
+- https://pools.fyi/#/returns/0xe9cf7887b93150d4f2da7dfc6d502b216438f244
+- https://pools.fyi/#/returns/0xa5407eae9ba41422680e2e00537571bcc53efbfd
+- https://pools.fyi/#/returns/0x3958b4ec427f8fa24eb60f42821760e88d485f7f
 
 ## Tokenlon
 - https://www.tokenlon.im/leaderboard
