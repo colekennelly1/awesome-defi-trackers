@@ -27,7 +27,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - [Melon](#melon)
 - [Nexus Mutual](#nexus-mutual)
 - [Oracles](#oracles)
-- [Pool Together](#pool-together)
+- [PoolTogether](#pool-together)
 - [RAY](#RAY)
 - [Set Protocol](#set-protocol)
 - [Stablecoins](#stablecoins)
@@ -233,7 +233,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## Oracles 
 - https://oracles.club/
 
-## Pool Together
+## PoolTogether
 - https://www.pooltogether.com/#stats
 - https://www.tokenterminal.xyz/protocol/Pool%20Together
 - https://defimarketcap.io/protocol/pool-together
