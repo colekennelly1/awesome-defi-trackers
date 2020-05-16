@@ -220,7 +220,6 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://amberdata.io/addresses/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2/metrics
 - https://pools.fyi/#/returns/0x2c4bd064b998838076fa341a83d007fc2fa50957
 - https://pools.fyi/#/returns/0x2a1530c4c41db0b0b2bb646cb5eb1a67b7158667
-- https://governance-dai.glitch.me
 
 ## Melon
 - https://defipulse.com/melon
