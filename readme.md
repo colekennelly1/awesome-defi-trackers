@@ -150,6 +150,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://explore.duneanalytics.com/dashboard/defi-users-over-time
 - https://ethereumprice.org/defi-charts/
 - https://whois0x.io/defimarket
+- https://twitter.com/defiAlerts
 
 ## InstaDApp        
 - https://defipulse.com/instadapp
