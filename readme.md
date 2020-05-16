@@ -237,6 +237,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://www.pooltogether.com/#stats
 - https://www.tokenterminal.xyz/protocol/Pool%20Together
 - https://defimarketcap.io/protocol/pool-together
+- https://twitter.com/PoolTogetherBot
 
 ## RAY
 - https://staking.staked.us/ray
