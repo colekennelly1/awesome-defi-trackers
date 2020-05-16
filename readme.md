@@ -306,6 +306,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://www.coingecko.com/en/exchanges/uniswap
 - https://twitter.com/Uniswap_Bot
 - https://uniswapdex.com/
+- https://www.coingecko.com/en/exchanges/uniswap
 
 
 Submit a PR to make a contribution. 
