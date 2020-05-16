@@ -55,6 +55,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://dappradar.com/app/1823/aave
 - https://amberdata.io/addresses/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03/metrics
 - https://explore.duneanalytics.com/public/dashboards/duig0czbmnFZzaZOAmeTmC9qlv3bPVCOb5osqMVM
+- https://aave-futuristic-dashboard.now.sh
 
 ## Balancer
 - https://explore.duneanalytics.com/dashboard/balancer
