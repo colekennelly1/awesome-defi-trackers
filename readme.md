@@ -44,6 +44,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defimarketcap.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498
 - https://www.stateofthedapps.com/dapps/0x
 - https://amberdata.io/addresses/0xe41d2489571d322189246dafa5ebde1f4699f498/metrics
+- https://0x.org/zrx/vote
 
 ## Aave
 - https://defipulse.com/aave
