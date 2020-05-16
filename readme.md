@@ -127,6 +127,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://scout.cool/dydxprotocol/mainnet
 
 ## Erasure
+- https://twitter.com/erasurebay
 - https://defipulse.com/erasure
 - https://twitter.com/ErasureStaked
 - https://explore.duneanalytics.com/dashboard/erasure_2
