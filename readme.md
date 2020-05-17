@@ -260,6 +260,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://dapptotal.com/stablecoins
 - https://defimarketcap.io/protocol/stablecoin
 - https://skew.com/dashboard/stable-coins
+- https://usdonethereum.com
 
 ## Staking 
 - https://staked.us/yields/
@@ -282,7 +283,6 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://pools.fyi/#/returns/0xe9cf7887b93150d4f2da7dfc6d502b216438f244
 - https://pools.fyi/#/returns/0xa5407eae9ba41422680e2e00537571bcc53efbfd
 - https://pools.fyi/#/returns/0x3958b4ec427f8fa24eb60f42821760e88d485f7f
-- https://usdonethereum.com
 
 ## Tokenlon
 - https://www.tokenlon.im/leaderboard
