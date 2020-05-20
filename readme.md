@@ -78,6 +78,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## Celo
 - https://celoist.com/ecosystem
 - https://www.thecelo.com/
+- http://celolisten.kobi.one
 
 ## Compound
 - https://compound.finance/markets
