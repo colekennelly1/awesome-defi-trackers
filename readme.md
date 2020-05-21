@@ -14,6 +14,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - [Bitcoin](#bitcoin)
 - [Celo](#celo)
 - [Compound](#compound)
+- [Curve)(#curve)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [dForce](#dforce)
 - [dYdX](#dydx)
@@ -96,6 +97,9 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://www.stateofthedapps.com/dapps/compound
 - https://dappradar.com/app/989/compound
 - https://www.curiousgiraffe.io/compound/
+
+## Curve
+- https://www.curve.fi/combinedstats
 
 ## Decentralized Exchanges
 - https://etherscan.io/dextracker
