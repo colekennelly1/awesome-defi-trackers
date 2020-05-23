@@ -213,7 +213,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://bloxy.info/token_holders/0x6b175474e89094c44da98b954eedeac495271d0f
 - https://defimarketcap.io/token/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2
 - https://defimarketcap.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359
-- https://makerburn.com/#/
+- https://makerburn.com
 - https://catflip.co/changelog
 - https://vote.makerdao.com/polling
 - https://dsr.fyi/
