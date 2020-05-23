@@ -47,6 +47,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://amberdata.io/addresses/0xe41d2489571d322189246dafa5ebde1f4699f498/metrics
 - https://0x.org/zrx/vote
 - https://yield.fi/app/0x
+- https://explore.duneanalytics.com/dashboard/0x-staking-stats
 
 ## Aave
 - https://defipulse.com/aave
