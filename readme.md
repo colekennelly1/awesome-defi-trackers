@@ -14,7 +14,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - [Bitcoin](#bitcoin)
 - [Celo](#celo)
 - [Compound](#compound)
-- [Curve)(#curve)
+- [Curve](#curve)
 - [Decentralized Exchanges](#decentralized-exchanges)
 - [dForce](#dforce)
 - [dYdX](#dydx)
