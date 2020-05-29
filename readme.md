@@ -30,6 +30,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - [Oracles](#oracles)
 - [PoolTogether](#pool-together)
 - [RAY](#RAY)
+- [Ren](#ren)
 - [Set Protocol](#set-protocol)
 - [Stablecoins](#stablecoins)
 - [Staking](#staking)
@@ -250,6 +251,10 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://staking.staked.us/ray
 - https://defipulse.com/robo-advisor-for-yield
 - https://twitter.com/RoboForYield
+
+## Ren 
+- https://mainnet.renproject.io/
+- https://www.tokenterminal.xyz/protocol/Ren
 
 ## Set Protocol
 - https://defipulse.com/set-protocol
