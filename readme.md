@@ -74,6 +74,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defimarketcap.io/token/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c
 - https://defimarketcap.io/protocol/bancor
 - https://zumzoom.github.io/analytics/bancor/roi/
+- https://explore.duneanalytics.com/dashboard/bancor
 
 ## Bitcoin
 - https://btconethereum.com/
