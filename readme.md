@@ -49,6 +49,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://0x.org/zrx/vote
 - https://yield.fi/app/0x
 - https://explore.duneanalytics.com/dashboard/0x-staking-stats
+- https://explore.duneanalytics.com/dashboard/0x-trading-activity
 
 ## Aave
 - https://defipulse.com/aave
