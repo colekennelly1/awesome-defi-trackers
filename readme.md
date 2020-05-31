@@ -276,6 +276,9 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://skew.com/dashboard/stable-coins
 - https://usdonethereum.com
 
+## Shell
+- https://explore.duneanalytics.com/dashboard/shell-contract
+
 ## Staking 
 - https://staked.us/yields/
 - https://stakingrewards.com
