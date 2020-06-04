@@ -32,6 +32,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - [RAY](#RAY)
 - [Ren](#ren)
 - [Set Protocol](#set-protocol)
+- [Shell](#shell)
 - [Stablecoins](#stablecoins)
 - [Staking](#staking)
 - [Synthetix](#synthetix)
