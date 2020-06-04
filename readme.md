@@ -168,6 +168,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://ethereumprice.org/defi-charts/
 - https://whois0x.io/defimarket
 - https://twitter.com/defiAlerts
+- https://defi.dapp.review/
 
 ## InstaDApp        
 - https://defipulse.com/instadapp
