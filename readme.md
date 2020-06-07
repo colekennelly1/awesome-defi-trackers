@@ -50,8 +50,8 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://amberdata.io/addresses/0xe41d2489571d322189246dafa5ebde1f4699f498/metrics
 - https://0x.org/zrx/vote
 - https://yield.fi/app/0x
-- https://explore.duneanalytics.com/dashboard/0x-staking-stats
-- https://explore.duneanalytics.com/dashboard/0x-trading-activity
+- https://explore.duneanalytics.com/public/dashboards/rRd3GPZIU6DN4FpfCbUFXj42rmfnPVb726Sap0mH
+- https://explore.duneanalytics.com/public/dashboards/Sgm2DE79G0JLo5naQWS142jlWLYgxgbvwFP8bBo2
 
 ## Aave
 - https://defipulse.com/aave
@@ -62,22 +62,22 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://www.stateofthedapps.com/dapps/aave-protocol
 - https://dappradar.com/app/1823/aave
 - https://amberdata.io/addresses/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03/metrics
-- https://explore.duneanalytics.com/public/dashboards/duig0czbmnFZzaZOAmeTmC9qlv3bPVCOb5osqMVM
+- https://explore.duneanalytics.com/public/dashboards/pGTX8kT2THRQ8EEXWyQuSMgFQepiK9LAChJikHKG
 - https://aave-futuristic-dashboard.now.sh
 
 ## Balancer
-- https://explore.duneanalytics.com/dashboard/balancer
+- https://explore.duneanalytics.com/public/dashboards/KNZVLDSUaTLH2UHbsIO4L1pD1K7Pq54Brwe7MOSD
 - https://defimarketcap.io/protocol/balancer
 - https://pools.balancer.exchange/#/list
 
 ## Bancor
 - https://www.bancor.network/
 - https://defipulse.com/bancor
-- https://explore.duneanalytics.com/dashboard/bancor_1
+- https://explore.duneanalytics.com/public/dashboards/5LhT65ZIc32nQkLi62mKAGpatk4kfRLqSsqpn7Qm
 - https://defimarketcap.io/token/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c
 - https://defimarketcap.io/protocol/bancor
 - https://zumzoom.github.io/analytics/bancor/roi/
-- https://explore.duneanalytics.com/dashboard/bancor
+- https://explore.duneanalytics.com/public/dashboards/y7fQYQBtk2uKksjVlzcUfzxZrECYnouESWNBw12w
 
 ## Bitcoin
 - https://btconethereum.com/
@@ -135,7 +135,6 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## dYdX
 - https://trade.dydx.exchange/markets
 - https://defipulse.com/dydx
-- https://explore.duneanalytics.com/dashboard/dydx_4
 - https://www.tokenterminal.xyz/protocol/dYdX
 - https://dappradar.com/app/1538/dydx
 - https://scout.cool/dydxprotocol/mainnet
@@ -144,7 +143,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://twitter.com/erasurebay
 - https://defipulse.com/erasure
 - https://twitter.com/ErasureStaked
-- https://explore.duneanalytics.com/dashboard/erasure_2
+- https://explore.duneanalytics.com/public/dashboards/Ch3n9dl4gaixytd0TSKUAX4360iuhKSZw06KwQLi
 - https://www.tokenterminal.xyz/protocol/Erasure
 
 ## Fulcrum
@@ -162,11 +161,11 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defiscan.io/
 - https://dapptotal.com/defi
 - https://ethdashboard.com/
-- https://explore.duneanalytics.com/dashboard/defi-growth
+- https://explore.duneanalytics.com/public/dashboards/1T8bkBHXld3M8S10Sf6DWzT2msczn13oDFsPMaGV
 - https://www.tokenterminal.xyz/
 - https://twitter.com/defilocked
 - https://skew.com/dashboard/decentralized-finance
-- https://explore.duneanalytics.com/dashboard/defi-users-over-time
+- https://explore.duneanalytics.com/public/dashboards/sSboszw8HIp3loFKBXv6uTMW9U3qac4bQF3weikS
 - https://ethereumprice.org/defi-charts/
 - https://whois0x.io/defimarket
 - https://twitter.com/defiAlerts
@@ -187,7 +186,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://dappradar.com/app/266/kyber
 - https://curiousgiraffe.io/kyberswap
 - https://twitter.com/KyberStatsBot
-- https://explore.duneanalytics.com/dashboard/kyber-network_2
+- https://explore.duneanalytics.com/public/dashboards/9Hf5iFjdNcCg2A9DUgpxzj9xjjF6wh927ANFSdyh
 
 ## Lending
 - https://loanscan.io/loans
@@ -203,7 +202,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 
 ## Loopring
 - https://defipulse.com/loopring
-- https://explore.duneanalytics.com/dashboard/loopring
+- https://explore.duneanalytics.com/public/dashboards/NGgCZYusyWknsl3qfmtzQs9ol0JfSd2cRBveYFQc
 
 ## Maker
 - https://mkr.tools/
@@ -215,7 +214,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defipulse.com/maker
 - https://www.coingecko.com/en/earn/dai
 - https://dai-in-defi.com
-- https://explore.duneanalytics.com/dashboard/maker-dao---mcd
+- https://explore.duneanalytics.com/public/dashboards/ByuzxFykUF6gO9J8OeEHeGfkGzn7WgF5q3puCPfq
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/MCDDAILockedinDeFi/DAIlockedinDeFiplatforms
 - https://defiexplore.com/stats
 - https://daiauctions.com/
@@ -230,7 +229,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://vote.makerdao.com/polling
 - https://dsr.fyi/
 - https://daipeg.com/
-- https://explore.duneanalytics.com/dashboard/dai_3
+- https://explore.duneanalytics.com/public/dashboards/IJPhyX0KnoKrwEGThgpSF87C8pJc2iHlMfp1KXhM
 - https://etherscan.io/loantracker#makerloan
 - https://www.stateofthedapps.com/dapps/makerdao
 - https://dappradar.com/app/791/makerdao
@@ -285,10 +284,10 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defimarketcap.io/protocol/stablecoin
 - https://skew.com/dashboard/stable-coins
 - https://usdonethereum.com
-- https://explore.duneanalytics.com/dashboard/stablecoin-users-trend
+- https://explore.duneanalytics.com/public/dashboards/EbSp6hTKWQkcqOU7OU53OIt8CgNmfPLGF0uXVLwK
 
 ## Shell
-- https://explore.duneanalytics.com/dashboard/shell-contract
+- https://explore.duneanalytics.com/public/dashboards/ZoQRAVc09wFwU6yzaSQ8RIyRv7vV96uXoUZoREkb
 
 ## Staking 
 - https://staked.us/yields/
@@ -325,8 +324,8 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## Uniswap
 - https://uniswap.info
 - https://defipulse.com/uniswap
-- https://explore.duneanalytics.com/dashboard/uniswap-usd-collected-fees-
-- https://explore.duneanalytics.com/dashboard/uniswap_1
+- https://explore.duneanalytics.com/public/dashboards/9BEV9ohY4ka1ZNXtp93t6bgqAsSQQNjAQOi5uQXo
+- https://explore.duneanalytics.com/public/dashboards/CJotPmA6hAaUQwO6FRpDa6Qim4LqevVT9EOKHpyU
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Uniswap/UniswapOverview
 - https://zumzoom.github.io/analytics/uniswap/roi/
 - https://defimarketcap.io/protocol/uniswap
@@ -337,7 +336,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://uniswapdex.com/
 - https://www.coingecko.com/en/exchanges/uniswap
 - https://uniswap.vision/
-- https://explore.duneanalytics.com/dashboard/uniswap-v2-flashswap-volume
+- https://explore.duneanalytics.com/public/dashboards/rxrMZsa1t9ZAAuaP0KzxyN2PKgyoj86JxrunW6Bi
 
 
 Submit a PR to make a contribution. 
