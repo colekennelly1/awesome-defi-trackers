@@ -24,6 +24,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - [InstaDApp](#instadapp)
 - [Kyber](#kyber)
 - [Lending](#lending)
+- [Loopring](#loopring)
 - [Maker](#maker)
 - [Melon](#melon)
 - [Nexus Mutual](#nexus-mutual)
@@ -199,6 +200,10 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defirate.com/lend/
 - https://loanlist.io
 - https://coininterestrates.com/
+
+## Loopring
+- https://defipulse.com/loopring
+- https://explore.duneanalytics.com/dashboard/loopring
 
 ## Maker
 - https://mkr.tools/
