@@ -203,6 +203,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## Loopring
 - https://defipulse.com/loopring
 - https://explore.duneanalytics.com/public/dashboards/NGgCZYusyWknsl3qfmtzQs9ol0JfSd2cRBveYFQc
+- https://www.tokenterminal.xyz/protocol/Loopring
 
 ## Maker
 - https://mkr.tools/
