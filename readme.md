@@ -54,6 +54,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://explore.duneanalytics.com/public/dashboards/Sgm2DE79G0JLo5naQWS142jlWLYgxgbvwFP8bBo2
 
 ## Aave
+- https://aave.com
 - https://defipulse.com/aave
 - https://aavewatch.now.sh
 - https://defimarketcap.io/protocol/aave
