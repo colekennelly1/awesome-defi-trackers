@@ -64,6 +64,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://amberdata.io/addresses/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03/metrics
 - https://explore.duneanalytics.com/public/dashboards/pGTX8kT2THRQ8EEXWyQuSMgFQepiK9LAChJikHKG
 - https://aave-futuristic-dashboard.now.sh
+- https://explore.duneanalytics.com/public/dashboards/HrS0DJHrfmOdXhm59rozYjt7pSsa5p9VF4CcGO8a
 
 ## Balancer
 - https://explore.duneanalytics.com/public/dashboards/KNZVLDSUaTLH2UHbsIO4L1pD1K7Pq54Brwe7MOSD
