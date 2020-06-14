@@ -43,6 +43,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 
 ## 0x
 - https://0xtracker.com
+- https://www.coingecko.com/en/coins/0x
 - https://twitter.com/0xtracker
 - https://www.tokenterminal.xyz/protocol/0x
 - https://defimarketcap.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498
