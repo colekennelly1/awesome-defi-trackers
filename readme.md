@@ -150,6 +150,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://twitter.com/erasurebay
 - https://defipulse.com/erasure
 - https://twitter.com/ErasureStaked
+- https://www.coingecko.com/en/coins/numeraire
 - https://explore.duneanalytics.com/public/dashboards/Ch3n9dl4gaixytd0TSKUAX4360iuhKSZw06KwQLi
 - https://www.tokenterminal.xyz/protocol/Erasure
 
