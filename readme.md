@@ -321,6 +321,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://www.tokenlon.im/leaderboard
 - https://www.stateofthedapps.com/dapps/imtoken-tokenlon
 - https://dappradar.com/app/1545/tokenlon
+- https://www.coingecko.com/en/exchanges/tokenlon
 
 ## Terra
 - https://station.terra.money/
