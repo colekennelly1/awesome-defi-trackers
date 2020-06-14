@@ -278,6 +278,8 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## Ren 
 - https://mainnet.renproject.io/
 - https://www.tokenterminal.xyz/protocol/Ren
+- https://www.coingecko.com/en/coins/ren
+- https://www.coingecko.com/en/coins/renbtc
 
 ## Set Protocol
 - https://defipulse.com/set-protocol
@@ -312,6 +314,8 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://synthetix.exchange
 - https://defipulse.com/synthetix
 - https://www.coingecko.com/en/exchanges/synthetix-exchange
+- https://www.coingecko.com/en/coins/synthetix-network-token
+- https://www.coingecko.com/en/coins/susd
 - https://defimarketcap.io/protocol/synthetix
 - http://synthetixstats.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Synthetix/Synthetix
