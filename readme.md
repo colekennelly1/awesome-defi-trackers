@@ -57,6 +57,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## Aave
 - https://aave.com
 - https://defipulse.com/aave
+- https://www.coingecko.com/en/coins/aave
 - https://aavewatch.now.sh
 - https://defimarketcap.io/protocol/aave
 - https://www.tokenterminal.xyz/protocol/Aave
