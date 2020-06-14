@@ -181,9 +181,10 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## Kyber
 - https://tracker.kyber.network
 - https://defipulse.com/kyber
-- https://twitter.com/KyberTracker
+- https://www.coingecko.com/en/coins/kyber-network
 - https://www.coingecko.com/en/exchanges/kyber_network
 - https://www.tokenterminal.xyz/protocol/Kyber%20Network
+- https://twitter.com/KyberTracker
 - https://defimarketcap.io/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200
 - https://amberdata.io/addresses/0xdd974d5c2e2928dea5f71b9825b8b646686bd200/metrics
 - https://www.stateofthedapps.com/dapps/kybernetwork
