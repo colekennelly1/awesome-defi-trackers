@@ -301,6 +301,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://dashboard.synthetix.io
 - https://synthetix.exchange
 - https://defipulse.com/synthetix
+- https://www.coingecko.com/en/exchanges/synthetix-exchange
 - https://defimarketcap.io/protocol/synthetix
 - http://synthetixstats.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Synthetix/Synthetix
