@@ -71,6 +71,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://explore.duneanalytics.com/public/dashboards/KNZVLDSUaTLH2UHbsIO4L1pD1K7Pq54Brwe7MOSD
 - https://defimarketcap.io/protocol/balancer
 - https://pools.balancer.exchange/#/list
+- https://www.coingecko.com/en/exchanges/balancer
 
 ## Bancor
 - https://www.bancor.network/
@@ -109,6 +110,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 
 ## Curve
 - https://www.curve.fi/combinedstats
+- https://www.coingecko.com/en/exchanges/curve
 
 ## Decentralized Exchanges
 - https://etherscan.io/dextracker
