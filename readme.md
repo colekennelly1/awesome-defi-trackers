@@ -77,6 +77,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## Bancor
 - https://www.bancor.network/
 - https://defipulse.com/bancor
+- https://www.coingecko.com/en/coins/bancor-network
 - https://explore.duneanalytics.com/public/dashboards/5LhT65ZIc32nQkLi62mKAGpatk4kfRLqSsqpn7Qm
 - https://defimarketcap.io/token/0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c
 - https://defimarketcap.io/protocol/bancor
