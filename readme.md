@@ -277,6 +277,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defimarketcap.io/protocol/tokenset
 - https://tokenterminal.xyz/protocol/Set
 - https://tokenviz.io/
+- https://www.coingecko.com/en/exchanges/token_sets
 
 ## Stablecoins
 - https://app.santiment.net/assets/list?name=stablecoins
