@@ -42,6 +42,8 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - [Uniswap](#uniswap)
 
 ## 0x
+- https://0x.org/zrx/vote
+- https://0x.org/zrx/staking
 - https://0xtracker.com
 - https://www.coingecko.com/en/coins/0x
 - https://twitter.com/0xtracker
@@ -49,7 +51,6 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defimarketcap.io/token/0xe41d2489571d322189246dafa5ebde1f4699f498
 - https://www.stateofthedapps.com/dapps/0x
 - https://amberdata.io/addresses/0xe41d2489571d322189246dafa5ebde1f4699f498/metrics
-- https://0x.org/zrx/vote
 - https://yield.fi/app/0x
 - https://explore.duneanalytics.com/public/dashboards/rRd3GPZIU6DN4FpfCbUFXj42rmfnPVb726Sap0mH
 - https://explore.duneanalytics.com/public/dashboards/Sgm2DE79G0JLo5naQWS142jlWLYgxgbvwFP8bBo2
