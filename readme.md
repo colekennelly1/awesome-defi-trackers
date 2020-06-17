@@ -88,7 +88,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 
 ## Bitcoin
 - https://btconethereum.com/
-- https://explore.duneanalytics.com/dashboard/tbtc-wip-
+- https://explore.duneanalytics.com/public/dashboards/dDLGBPVeMjtG4yleUUrQWwiXtnQB4bQ1aA9wpBU1
 
 ## Celo
 - https://celoist.com/ecosystem
