@@ -110,6 +110,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://www.stateofthedapps.com/dapps/compound
 - https://dappradar.com/app/989/compound
 - https://www.curiousgiraffe.io/compound/
+- https://explore.duneanalytics.com/public/dashboards/JMB9bYfVUtMAPHM5moj7aIjLaDwos2k9JjJTtk64
 
 ## Curve
 - https://www.curve.fi/combinedstats
