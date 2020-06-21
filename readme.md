@@ -101,6 +101,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://compound.finance/markets
 - https://compound.finance/governance/leaderboard
 - https://compound.finance/governance/comp
+- https://www.coingecko.com/en/coins/compound
 - https://defipulse.com/compound
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Compound/CompoundFinance
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/CompoundLiquidity/CompoundLiquidity
