@@ -71,6 +71,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://explore.duneanalytics.com/public/dashboards/HrS0DJHrfmOdXhm59rozYjt7pSsa5p9VF4CcGO8a
 
 ## Balancer
+- https://defipulse.com/balancer
 - https://explore.duneanalytics.com/public/dashboards/KNZVLDSUaTLH2UHbsIO4L1pD1K7Pq54Brwe7MOSD
 - https://defimarketcap.io/protocol/balancer
 - https://pools.balancer.exchange/#/list
