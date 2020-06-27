@@ -83,6 +83,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://pools.balancer.exchange/#/list
 - https://www.coingecko.com/en/exchanges/balancer
 - https://www.coingecko.com/en/coins/balancer
+- http://www.predictions.exchange/balancer/
 
 ## Bancor
 - https://www.bancor.network/
@@ -96,6 +97,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 
 ## Bitcoin
 - https://btconethereum.com/
+- http://www.predictions.exchange/ethbtc/
 - https://explore.duneanalytics.com/public/dashboards/dDLGBPVeMjtG4yleUUrQWwiXtnQB4bQ1aA9wpBU1
 
 ## Celo
@@ -130,7 +132,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://dappradar.com/app/989/compound
 - https://www.curiousgiraffe.io/compound/
 - https://explore.duneanalytics.com/public/dashboards/JMB9bYfVUtMAPHM5moj7aIjLaDwos2k9JjJTtk64
-- http://www.predictions.exchange/compound/None
+- http://www.predictions.exchange/compound
 
 ## Curve
 - https://www.curve.fi/combinedstats
@@ -142,6 +144,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## Decentralized Exchanges
 - https://etherscan.io/dextracker
 - https://etherscan.io/orderbooks
+- http://www.predictions.exchange/dex/
 - https://app.santiment.net/assets/list?name=decentralized%20exchanges
 - https://dex.ag
 - https://pools.fyi
@@ -319,6 +322,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 
 ## Stablecoins
 - https://www.coingecko.com/en/stablecoins
+- http://www.predictions.exchange/stablecoin/
 - https://app.santiment.net/assets/list?name=stablecoins
 - https://coinmetrics.io/charts/#assets=usdt,usdteth,dai,usdc,busd,gusd,husd,sai,tusd,pax,usdttrx_log=false_left=SplyCur_zoom=1555027200000,1586563200000
 - https://debank.com/insight/stable
