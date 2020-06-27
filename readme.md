@@ -98,6 +98,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - http://celolisten.kobi.one
 - https://celo.org/validators/explore
 - https://explorer.celo.org
+- https://www.coingecko.com/en/coins/celo
 
 ## Compound
 - https://compound.finance/markets
@@ -105,6 +106,11 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://compound.finance/governance/comp
 - https://www.coingecko.com/en/coins/compound
 - https://www.coingecko.com/en/coins/compound-ether
+- https://www.coingecko.com/en/coins/compound-usdt
+- https://www.coingecko.com/en/coins/compound-usd-coin
+- https://www.coingecko.com/en/coins/compound-dai
+- https://www.coingecko.com/en/coins/compound-basic-attention-token
+- https://www.coingecko.com/en/coins/compound-0x
 - https://defipulse.com/compound
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Compound/CompoundFinance
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/CompoundLiquidity/CompoundLiquidity
