@@ -9,6 +9,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## Contents
 - [0x](#0x)
 - [Aave](#aave)
+- [Ampleforth](#ampleforth)
 - [Balancer](#balance)
 - [Bancor](#bancor)
 - [Bitcoin](#bitcoin)
@@ -69,6 +70,10 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://explore.duneanalytics.com/public/dashboards/pGTX8kT2THRQ8EEXWyQuSMgFQepiK9LAChJikHKG
 - https://aave-futuristic-dashboard.now.sh
 - https://explore.duneanalytics.com/public/dashboards/HrS0DJHrfmOdXhm59rozYjt7pSsa5p9VF4CcGO8a
+
+## Ampleforth
+- https://www.ampleforth.org/dashboard/
+- https://www.coingecko.com/en/coins/ampleforth
 
 ## Balancer
 - https://defipulse.com/balancer
