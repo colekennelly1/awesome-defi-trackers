@@ -74,6 +74,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defipulse.com/balancer
 - https://explore.duneanalytics.com/public/dashboards/KNZVLDSUaTLH2UHbsIO4L1pD1K7Pq54Brwe7MOSD
 - https://defimarketcap.io/protocol/balancer
+- https://defimarketcap.io/token/0xba100000625a3754423978a60c9317c58a424e3d
 - https://pools.balancer.exchange/#/list
 - https://www.coingecko.com/en/exchanges/balancer
 - https://www.coingecko.com/en/coins/balancer
@@ -117,6 +118,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://mattsolomon.dev/compound-rates
 - https://www.tokenterminal.xyz/protocol/Compound
 - https://defimarketcap.io/protocol/compound
+- https://defimarketcap.io/token/0xc00e94cb662c3520282e6f5717214004a7f26888
 - https://twitter.com/CompoundBot
 - https://etherscan.io/loantracker#compoundloan
 - https://www.stateofthedapps.com/dapps/compound
@@ -128,6 +130,9 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## Curve
 - https://www.curve.fi/combinedstats
 - https://www.coingecko.com/en/exchanges/curve
+- https://explore.duneanalytics.com/public/dashboards/CFaRL5QFcYAQ2s0HxGFNf0goQgDppEjp9xW5nZLu
+- https://explore.duneanalytics.com/public/dashboards/CDsjsyJZtyWH9G2kyew6awJFKFjFX6ZxjBisfnni
+- https://defimarketcap.io/protocol/curve
 
 ## Decentralized Exchanges
 - https://etherscan.io/dextracker
@@ -334,6 +339,10 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://www.coingecko.com/en/exchanges/synthetix-exchange
 - https://www.coingecko.com/en/coins/synthetix-network-token
 - https://www.coingecko.com/en/coins/susd
+- https://www.coingecko.com/en/coins/seth
+- https://www.coingecko.com/en/coins/sbtc
+- https://www.coingecko.com/en/coins/ieth
+- https://www.coingecko.com/en/coins/sxau
 - https://defimarketcap.io/protocol/synthetix
 - http://synthetixstats.com
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/Synthetix/Synthetix
