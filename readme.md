@@ -319,6 +319,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://dashboard.synthetix.io
 - https://synthetix.exchange
 - https://defipulse.com/synthetix
+- https://snx.tools/
 - https://www.coingecko.com/en/exchanges/synthetix-exchange
 - https://www.coingecko.com/en/coins/synthetix-network-token
 - https://www.coingecko.com/en/coins/susd
