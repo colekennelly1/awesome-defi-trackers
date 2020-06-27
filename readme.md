@@ -278,6 +278,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://pools.fyi/#/returns/0x2c4bd064b998838076fa341a83d007fc2fa50957
 - https://pools.fyi/#/returns/0x2a1530c4c41db0b0b2bb646cb5eb1a67b7158667
 - https://explore.duneanalytics.com/public/dashboards/AvbsiCAcfupyGXu4WHhxn5kwv62YuNktjo4C8h4W
+- https://maker-auctions.io/
 
 ## Melon
 - https://defipulse.com/melon
