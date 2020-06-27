@@ -282,6 +282,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://pools.fyi/#/returns/0x2a1530c4c41db0b0b2bb646cb5eb1a67b7158667
 - https://explore.duneanalytics.com/public/dashboards/AvbsiCAcfupyGXu4WHhxn5kwv62YuNktjo4C8h4W
 - https://maker-auctions.io/
+- http://www.predictions.exchange/makerdao_vaults/
 
 ## Melon
 - https://defipulse.com/melon
@@ -393,7 +394,8 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://uniswapdex.com/
 - https://www.coingecko.com/en/exchanges/uniswap
 - https://uniswap.vision/
-- https://explore.duneanalytics.com/public/dashboards/rxrMZsa1t9ZAAuaP0KzxyN2PKgyoj86JxrunW6Bi
+- https://explore.duneanalytics.com/public/dashboards/rxrMZsa1t9ZAAuaP0KzxyN2PKgyoj86JxrunW6Bi]
+- http://www.predictions.exchange/uniswap_markets/
 
 
 Submit a PR to make a contribution. 
