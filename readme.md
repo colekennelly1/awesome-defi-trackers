@@ -76,6 +76,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defimarketcap.io/protocol/balancer
 - https://pools.balancer.exchange/#/list
 - https://www.coingecko.com/en/exchanges/balancer
+- https://www.coingecko.com/en/coins/balancer
 
 ## Bancor
 - https://www.bancor.network/
