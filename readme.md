@@ -23,6 +23,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - [Fulcrum](#fulcrum)
 - [General](#general)
 - [InstaDApp](#instadapp)
+- [Kava](#kava)
 - [Kyber](#kyber)
 - [Lending](#lending)
 - [Loopring](#loopring)
@@ -209,6 +210,9 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 
 ## InstaDApp        
 - https://defipulse.com/instadapp
+
+## Kava
+- https://www.coingecko.com/en/coins/kava
 
 ## Kyber
 - https://tracker.kyber.network
