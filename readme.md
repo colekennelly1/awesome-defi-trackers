@@ -100,6 +100,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://btconethereum.com/
 - http://www.predictions.exchange/ethbtc/
 - https://explore.duneanalytics.com/public/dashboards/dDLGBPVeMjtG4yleUUrQWwiXtnQB4bQ1aA9wpBU1
+- https://www.coingecko.com/en/coins/wrapped-bitcoin
 
 ## Celo
 - https://celoist.com/ecosystem
@@ -291,6 +292,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## Melon
 - https://defipulse.com/melon
 - https://monitoring.melon.network
+- https://www.coingecko.com/en/coins/melon
 
 ## Nexus Mutual 
 - https://defipulse.com/nexus-mutual
