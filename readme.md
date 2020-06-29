@@ -109,6 +109,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://celo.org/validators/explore
 - https://explorer.celo.org
 - https://www.coingecko.com/en/coins/celo
+- http://celoreserve.org/
 
 ## Compound
 - https://compound.finance/markets
