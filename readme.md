@@ -12,7 +12,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - [Ampleforth](#ampleforth)
 - [Balancer](#balance)
 - [Bancor](#bancor)
-- [Bitcoin](#bitcoin)
+- [Bitcoin on Ethereum](#bitcoin-on-ethereum)
 - [Celo](#celo)
 - [Compound](#compound)
 - [Curve](#curve)
@@ -96,7 +96,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://zumzoom.github.io/analytics/bancor/roi/
 - https://explore.duneanalytics.com/public/dashboards/y7fQYQBtk2uKksjVlzcUfzxZrECYnouESWNBw12w
 
-## Bitcoin
+## Bitcoin on Ethereum
 - https://btconethereum.com/
 - http://www.predictions.exchange/ethbtc/
 - https://explore.duneanalytics.com/public/dashboards/dDLGBPVeMjtG4yleUUrQWwiXtnQB4bQ1aA9wpBU1
@@ -382,6 +382,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://station.terra.money/
 - https://www.tokenterminal.xyz/protocol/Terra
 - https://www.coingecko.com/en/coins/terra-luna
+- https://www.chaiscan.com/
 
 ## Uniswap
 - https://uniswap.info
