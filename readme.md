@@ -382,6 +382,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://station.terra.money/
 - https://www.tokenterminal.xyz/protocol/Terra
 - https://www.coingecko.com/en/coins/terra-luna
+- https://www.coingecko.com/en/coins/terra-krw
 - https://www.chaiscan.com/
 
 ## Uniswap
