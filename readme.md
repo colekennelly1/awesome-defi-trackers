@@ -257,9 +257,9 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://makerdao.descipher.io/
 - http://makervaults.descipher.io/
 - https://defipulse.com/maker
-- https://www.coingecko.com/en/earn/dai
 - https://www.coingecko.com/en/coins/maker
 - https://www.coingecko.com/en/coins/dai
+- https://www.coingecko.com/en/earn/dai
 - https://dai-in-defi.com
 - https://explore.duneanalytics.com/public/dashboards/ByuzxFykUF6gO9J8OeEHeGfkGzn7WgF5q3puCPfq
 - https://public.tableau.com/profile/alethio.defi#!/vizhome/MCDDAILockedinDeFi/DAIlockedinDeFiplatforms
