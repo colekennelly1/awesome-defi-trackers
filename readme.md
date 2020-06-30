@@ -248,6 +248,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://explore.duneanalytics.com/public/dashboards/NGgCZYusyWknsl3qfmtzQs9ol0JfSd2cRBveYFQc
 - https://www.tokenterminal.xyz/protocol/Loopring
 - https://www.coingecko.com/en/exchanges/loopring
+- https://www.coingecko.com/en/coins/thorchain
 
 ## Maker
 - https://mkr.tools/
