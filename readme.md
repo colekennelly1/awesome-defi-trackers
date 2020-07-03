@@ -31,7 +31,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - [Melon](#melon)
 - [Nexus Mutual](#nexus-mutual)
 - [Oracles](#oracles)
-- [PoolTogether](#pool-together)
+- [PoolTogether](#pooltogether)
 - [RAY](#RAY)
 - [Ren](#ren)
 - [Set Protocol](#set-protocol)
