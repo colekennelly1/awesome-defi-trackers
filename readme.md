@@ -136,6 +136,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://www.curiousgiraffe.io/compound/
 - https://explore.duneanalytics.com/public/dashboards/JMB9bYfVUtMAPHM5moj7aIjLaDwos2k9JjJTtk64
 - http://www.predictions.exchange/compound
+- https://stat.farm
 
 ## Curve
 - https://www.curve.fi/combinedstats
