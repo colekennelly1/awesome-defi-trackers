@@ -320,6 +320,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://www.tokenterminal.xyz/protocol/Ren
 - https://www.coingecko.com/en/coins/ren
 - https://www.coingecko.com/en/coins/renbtc
+- https://defipulse.com/renvm
 
 ## Set Protocol
 - https://defipulse.com/set-protocol
