@@ -56,6 +56,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://yield.fi/app/0x
 - https://explore.duneanalytics.com/public/dashboards/rRd3GPZIU6DN4FpfCbUFXj42rmfnPVb726Sap0mH
 - https://explore.duneanalytics.com/public/dashboards/Sgm2DE79G0JLo5naQWS142jlWLYgxgbvwFP8bBo2
+- https://explore.duneanalytics.com/public/dashboards/EXo9s8wEz4NYNpqV2eP0ZoPKz1yvixzlYKpieUPq
 
 ## Aave
 - https://aave.com
