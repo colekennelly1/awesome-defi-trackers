@@ -87,6 +87,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://www.coingecko.com/en/coins/balancer
 - http://www.predictions.exchange/balancer/
 - https://bal-reports.herokuapp.com/#
+- https://www.tokenterminal.xyz/protocol/Balancer
 
 ## Bancor
 - https://www.bancor.network/
