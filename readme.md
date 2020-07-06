@@ -139,6 +139,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://explore.duneanalytics.com/public/dashboards/JMB9bYfVUtMAPHM5moj7aIjLaDwos2k9JjJTtk64
 - http://www.predictions.exchange/compound
 - https://stat.farm
+- https://explore.duneanalytics.com/public/dashboards/cxe99VQmtY8jUyFZfvRnVgaklXjwcGr29ixmtBM1
 
 ## Curve
 - https://www.curve.fi/combinedstats
