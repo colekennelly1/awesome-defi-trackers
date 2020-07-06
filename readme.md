@@ -148,6 +148,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://explore.duneanalytics.com/public/dashboards/CFaRL5QFcYAQ2s0HxGFNf0goQgDppEjp9xW5nZLu
 - https://explore.duneanalytics.com/public/dashboards/CDsjsyJZtyWH9G2kyew6awJFKFjFX6ZxjBisfnni
 - https://defimarketcap.io/protocol/curve
+- http://www.predictions.exchange/curve/
 
 ## Decentralized Exchanges
 - https://etherscan.io/dextracker
