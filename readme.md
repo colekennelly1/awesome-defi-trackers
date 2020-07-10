@@ -144,6 +144,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 
 ## Curve
 - https://www.curve.fi/combinedstats
+- https://defipulse.com/curve-finance
 - https://www.coingecko.com/en/exchanges/curve
 - https://explore.duneanalytics.com/public/dashboards/CFaRL5QFcYAQ2s0HxGFNf0goQgDppEjp9xW5nZLu
 - https://explore.duneanalytics.com/public/dashboards/CDsjsyJZtyWH9G2kyew6awJFKFjFX6ZxjBisfnni
