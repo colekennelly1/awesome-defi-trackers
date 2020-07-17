@@ -151,6 +151,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://explore.duneanalytics.com/public/dashboards/CDsjsyJZtyWH9G2kyew6awJFKFjFX6ZxjBisfnni
 - https://defimarketcap.io/protocol/curve
 - http://www.predictions.exchange/curve/
+- https://defimarketcap.io/protocol/curve
 - https://defimarketcap.io/token/0xc25a3a3b969415c80451098fa907ec722572917f
 - https://defimarketcap.io/token/0x075b1bb99792c9e1041ba13afef80c91a1e70fb3
 
@@ -330,6 +331,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://www.coingecko.com/en/coins/ren
 - https://www.coingecko.com/en/coins/renbtc
 - https://defipulse.com/renvm
+- https://defimarketcap.io/token/0xeb4c2781e4eba804ce9a9803c67d0893436bb27d
 
 ## Set Protocol
 - https://defipulse.com/set-protocol
