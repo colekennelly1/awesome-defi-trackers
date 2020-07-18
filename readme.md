@@ -310,6 +310,8 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 
 ## mStable
 - https://defipulse.com/mstable
+- https://www.coingecko.com/en/coins/meta
+- https://www.coingecko.com/en/coins/musd
 
 ## Nexus Mutual 
 - https://defipulse.com/nexus-mutual
