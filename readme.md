@@ -29,6 +29,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - [Loopring](#loopring)
 - [Maker](#maker)
 - [Melon](#melon)
+- [mStable](#mstable)
 - [Nexus Mutual](#nexus-mutual)
 - [Oracles](#oracles)
 - [PoolTogether](#pooltogether)
@@ -306,6 +307,9 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defipulse.com/melon
 - https://monitoring.melon.network
 - https://www.coingecko.com/en/coins/melon
+
+## mStable
+- https://defipulse.com/mstable
 
 ## Nexus Mutual 
 - https://defipulse.com/nexus-mutual
