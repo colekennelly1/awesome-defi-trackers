@@ -43,6 +43,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - [Terra](#terra)
 - [Tokenlon](#tokenlon)
 - [Uniswap](#uniswap)
+- [Volmex](#volmex)
 
 ## 0x
 - https://0x.org/zrx/vote
@@ -426,6 +427,9 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://uniswap.vision/
 - https://explore.duneanalytics.com/public/dashboards/rxrMZsa1t9ZAAuaP0KzxyN2PKgyoj86JxrunW6Bi]
 - http://www.predictions.exchange/uniswap_markets/
+
+## Volmex 
+- http://volmex.finance/
 
 
 Submit a PR to make a contribution. 
