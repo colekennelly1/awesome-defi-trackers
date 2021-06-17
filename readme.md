@@ -430,6 +430,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 
 ## Volmex 
 - http://volmex.finance/
+- https://defillama.com/protocol/volmex
 
 
 Submit a PR to make a contribution. 
