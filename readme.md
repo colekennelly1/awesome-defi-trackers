@@ -430,7 +430,9 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 
 ## Volmex 
 - http://volmex.finance/
+- https://app.volmex.finance/
 - https://defillama.com/protocol/volmex
+- https://duneanalytics.com/danner_eth/Volmex-v1
 
 
 Submit a PR to make a contribution. 
