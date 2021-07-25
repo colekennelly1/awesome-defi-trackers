@@ -433,6 +433,14 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://app.volmex.finance/
 - https://defillama.com/protocol/volmex
 - https://duneanalytics.com/danner_eth/Volmex-v1
+- https://www.coingecko.com/en/coins/ethereum-volatility-index-token
+- https://www.coingecko.com/en/coins/inverse-ethereum-volatility-index-token
+- https://www.coingecko.com/en/coins/bitcoin-volatility-index-token
+- https://www.coingecko.com/en/coins/inverse-bitcoin-volatility-index-token
+- https://nomics.com/assets/ethv3-ethereum-volatility-index-token
+- https://nomics.com/assets/iethv-inverse-ethereum-volatility-index-token
+- https://nomics.com/assets/btcv3-bitcoin-volatility-index-token
+- https://nomics.com/assets/ibtcv-inverse-bitcoin-volatility-index-token
 
 
 Submit a PR to make a contribution. 
