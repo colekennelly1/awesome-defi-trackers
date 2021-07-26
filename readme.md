@@ -437,6 +437,10 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://www.coingecko.com/en/coins/inverse-ethereum-volatility-index-token
 - https://www.coingecko.com/en/coins/bitcoin-volatility-index-token
 - https://www.coingecko.com/en/coins/inverse-bitcoin-volatility-index-token
+- https://app.zerion.io/market/asset/0xc53342fd7575f572b0ff4569e31941a5b821ac76
+- https://app.zerion.io/market/asset/0x3a707d56d538e85b783e8ce12b346e7fb6511f90
+- https://app.zerion.io/market/asset/0x51b0bcbeff204b39ce792d1e16767fe6f7631970
+- https://app.zerion.io/market/asset/0x2590f1fd14ef8bb0a46c7a889c4cbc146510f9c3
 - https://nomics.com/assets/ethv3-ethereum-volatility-index-token
 - https://nomics.com/assets/iethv-inverse-ethereum-volatility-index-token
 - https://nomics.com/assets/btcv3-bitcoin-volatility-index-token
