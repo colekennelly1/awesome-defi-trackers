@@ -255,6 +255,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defirate.com/lend/
 - https://loanlist.io
 - https://coininterestrates.com/
+- https://investindefi.net
 
 ## Loopring
 - https://defipulse.com/loopring
