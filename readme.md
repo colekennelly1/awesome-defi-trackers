@@ -442,6 +442,8 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://app.zerion.io/market/asset/0x3a707d56d538e85b783e8ce12b346e7fb6511f90
 - https://app.zerion.io/market/asset/0x51b0bcbeff204b39ce792d1e16767fe6f7631970
 - https://app.zerion.io/market/asset/0x2590f1fd14ef8bb0a46c7a889c4cbc146510f9c3
+- https://debank.com/projects/volmex/
+- https://debank.com/projects/matic_volmex
 - https://nomics.com/assets/ethv3-ethereum-volatility-index-token
 - https://nomics.com/assets/iethv-inverse-ethereum-volatility-index-token
 - https://nomics.com/assets/btcv3-bitcoin-volatility-index-token
