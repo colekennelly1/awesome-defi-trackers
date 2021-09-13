@@ -430,7 +430,9 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 
 ## Volmex 
 - http://volmex.finance/
+- https://defipulse.com/volmex-finance
 - https://api.volmex.finance/graphql
+- https://www.tokenterminal.com/terminal/projects/volmex
 - https://app.volmex.finance/
 - https://defillama.com/protocol/volmex
 - https://duneanalytics.com/danner_eth/Volmex-v1
@@ -448,7 +450,6 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://nomics.com/assets/iethv-inverse-ethereum-volatility-index-token
 - https://nomics.com/assets/btcv3-bitcoin-volatility-index-token
 - https://nomics.com/assets/ibtcv-inverse-bitcoin-volatility-index-token
-
 
 Submit a PR to make a contribution. 
 
