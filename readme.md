@@ -363,6 +363,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://skew.com/dashboard/stable-coins
 - https://usdonethereum.com
 - https://explore.duneanalytics.com/public/dashboards/EbSp6hTKWQkcqOU7OU53OIt8CgNmfPLGF0uXVLwK
+- https://stablecoins.wtf
 
 ## Shell
 - https://explore.duneanalytics.com/public/dashboards/ZoQRAVc09wFwU6yzaSQ8RIyRv7vV96uXoUZoREkb
