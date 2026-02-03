@@ -44,6 +44,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - [Tokenlon](#tokenlon)
 - [Uniswap](#uniswap)
 - [Volmex](#volmex)
+- [AI Agent Funding](#ai-agent-funding)
 
 ## 0x
 - https://0x.org/zrx/vote
@@ -450,6 +451,11 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://nomics.com/assets/iethv-inverse-ethereum-volatility-index-token
 - https://nomics.com/assets/btcv3-bitcoin-volatility-index-token
 - https://nomics.com/assets/ibtcv-inverse-bitcoin-volatility-index-token
+
+## AI Agent Funding
+- https://github.com/RioTheGreat-ai/agentfund-mcp - MCP server for AI agents to create crowdfunding proposals
+- https://github.com/RioTheGreat-ai/agentfund-escrow - Smart contract source (Solidity)
+- https://basescan.org/address/0x6a4420f696c9ba6997f41dddc15b938b54aa009a - Live contract on Base
 
 Submit a PR to make a contribution. 
 
