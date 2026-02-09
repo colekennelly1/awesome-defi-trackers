@@ -160,6 +160,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 ## Decentralized Exchanges
 - https://etherscan.io/dextracker
 - https://etherscan.io/orderbooks
+- https://dexscreener.com
 - http://www.predictions.exchange/dex/
 - https://app.santiment.net/assets/list?name=decentralized%20exchanges
 - https://dex.ag
