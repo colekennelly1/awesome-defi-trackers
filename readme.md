@@ -91,6 +91,8 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - http://www.predictions.exchange/balancer/
 - https://bal-reports.herokuapp.com/#
 - https://www.tokenterminal.xyz/protocol/Balancer
+- [Chartscout](https://chartscout.io) - Real-time cryptocurrency chart pattern detection with automated alerts across multiple exchanges
+
 
 ## Bancor
 - https://www.bancor.network/
