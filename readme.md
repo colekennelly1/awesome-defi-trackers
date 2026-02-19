@@ -209,6 +209,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://aleth.io/data/defi/evolution-defi-platforms
 - https://defiprime.com/
 - https://whois0x.io/defimarket
+- https://octav.fi/api
 - https://defiscan.io/
 - https://dapptotal.com/defi
 - https://ethdashboard.com/
@@ -219,6 +220,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://explore.duneanalytics.com/public/dashboards/sSboszw8HIp3loFKBXv6uTMW9U3qac4bQF3weikS
 - https://ethereumprice.org/defi-charts/
 - https://whois0x.io/defimarket
+- https://octav.fi/api
 - https://twitter.com/defiAlerts
 - https://defi.dapp.review/
 - https://app.santiment.net/assets/list?name=DeFi%20Summer@2046#shared
