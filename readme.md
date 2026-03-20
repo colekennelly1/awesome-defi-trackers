@@ -29,6 +29,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - [Loopring](#loopring)
 - [Maker](#maker)
 - [Melon](#melon)
+- [NanoStack](#nanostack)
 - [mStable](#mstable)
 - [Nexus Mutual](#nexus-mutual)
 - [Oracles](#oracles)
@@ -308,6 +309,9 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defipulse.com/melon
 - https://monitoring.melon.network
 - https://www.coingecko.com/en/coins/melon
+
+## NanoStack
+- https://api.nano-labs.io - Permissionless cross-chain execution fabric. 86 chains. 8-15 bps. No API key.
 
 ## mStable
 - https://defipulse.com/mstable
