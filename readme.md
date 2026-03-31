@@ -202,6 +202,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defimarketcap.io/protocol/fulcrum
 
 ## General
+- https://predscope.com - Prediction market analytics tracking 600+ live Polymarket events with real-time odds and market analysis
 - https://defipulse.com/
 - https://etherscan.io/defi-leaderboard
 - http://defimarketcap.io/
