@@ -202,6 +202,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defimarketcap.io/protocol/fulcrum
 
 ## General
+- https://agenteconomy.to - Real-time dashboard tracking AI agent on-chain payment activity across x402, ERC-8004, ERC-8183, and MPP protocols on 8 chains
 - https://defipulse.com/
 - https://etherscan.io/defi-leaderboard
 - http://defimarketcap.io/
