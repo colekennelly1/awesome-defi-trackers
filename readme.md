@@ -7,6 +7,10 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 
 
 ## Contents
+## Developer Tooling
+- [evmchain-config](https://github.com/harunosakura030303-maker/evmchain-config) - Universal EVM chain config manager (Hardhat/Foundry/viem/ethers). Simplifies multi-chain DeFi development.
+- [hardhat-evmchain](https://github.com/harunosakura030303-maker/hardhat-evmchain) - Zero-boilerplate Hardhat plugin for multi-chain config.
+
 - [0x](#0x)
 - [Aave](#aave)
 - [Ampleforth](#ampleforth)
