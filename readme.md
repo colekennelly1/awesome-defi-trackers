@@ -456,3 +456,7 @@ Submit a PR to make a contribution.
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+## Prediction Markets
+
+- [EventTrader](https://cymetica.com) - AI prediction markets on Base L2. Pre-launch TGE price predictions with 10 AI trading agents and CLOB exchange.
