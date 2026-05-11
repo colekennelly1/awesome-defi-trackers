@@ -35,6 +35,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - [PoolTogether](#pooltogether)
 - [RAY](#RAY)
 - [Ren](#ren)
+- [Security & Audits](#security--audits)
 - [Set Protocol](#set-protocol)
 - [Shell](#shell)
 - [Stablecoins](#stablecoins)
@@ -340,6 +341,9 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defipulse.com/renvm
 - https://defimarketcap.io/token/0xeb4c2781e4eba804ce9a9803c67d0893436bb27d]
 - https://explore.duneanalytics.com/public/dashboards/WxQwSraxYgz1watanTY17Q3TabXjmjHsLFxOlxtB
+
+## Security & Audits
+- https://defitrust.vercel.app — Open public registry for DeFi smart-contract audit certificates. Browse verified protocols, compare security coverage, and verify trust scores.
 
 ## Set Protocol
 - https://defipulse.com/set-protocol
