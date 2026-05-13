@@ -214,6 +214,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://ethdashboard.com/
 - https://explore.duneanalytics.com/public/dashboards/1T8bkBHXld3M8S10Sf6DWzT2msczn13oDFsPMaGV
 - https://www.tokenterminal.xyz/
+- https://www.sharpe.ai
 - https://twitter.com/defilocked
 - https://skew.com/dashboard/decentralized-finance
 - https://explore.duneanalytics.com/public/dashboards/sSboszw8HIp3loFKBXv6uTMW9U3qac4bQF3weikS
