@@ -178,6 +178,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://1inch.exchange
 - https://dapptotal.com/dex
 - https://www.coingecko.com/en/exchanges/decentralized
+- [OpenChainBench](https://openchainbench.com) — Open-source benchmarks for perp DEX all-in costs, bridge fees, and RPC latency across 20+ chains. CC BY 4.0 data.
 
 ## dForce
 - https://defipulse.com/dforce
