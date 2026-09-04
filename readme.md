@@ -222,6 +222,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://twitter.com/defiAlerts
 - https://defi.dapp.review/
 - https://app.santiment.net/assets/list?name=DeFi%20Summer@2046#shared
+- https://www.farmdash.one/ - DeFi protocol intelligence, Trail Heat signals, plus agent-ready API and MCP surfaces
 
 ## InstaDApp        
 - https://defipulse.com/instadapp
