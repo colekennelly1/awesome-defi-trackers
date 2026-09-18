@@ -450,6 +450,8 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://nomics.com/assets/iethv-inverse-ethereum-volatility-index-token
 - https://nomics.com/assets/btcv3-bitcoin-volatility-index-token
 - https://nomics.com/assets/ibtcv-inverse-bitcoin-volatility-index-token
+- [HostDeFi](https://hostdefi.com) - Token-safety scanner and multi-chain DEX front-end: free A+–F risk grades on Solana and 7 EVM chains plus a keyless REST API.
+
 
 Submit a PR to make a contribution. 
 
