@@ -427,6 +427,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://uniswap.vision/
 - https://explore.duneanalytics.com/public/dashboards/rxrMZsa1t9ZAAuaP0KzxyN2PKgyoj86JxrunW6Bi]
 - http://www.predictions.exchange/uniswap_markets/
+- https://quantumpools.io — LP bookkeeping / metrics (original deposit, fees, IL, cover value) for Solana + EVM concentrated liquidity
 
 ## Volmex 
 - http://volmex.finance/
