@@ -202,26 +202,27 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://defimarketcap.io/protocol/fulcrum
 
 ## General
-- https://defipulse.com/
-- https://etherscan.io/defi-leaderboard
+
+- [QuantumPools](https://quantumpools.io) - Multi-chain concentrated-liquidity LP bookkeeping & Cover Value (fees vs IL vs original deposit) across EVM + Solana.
 - http://defimarketcap.io/
-- https://public.tableau.com/profile/alethio.defi#!/vizhome/USDLockedinDeFi/USDLocked
 - https://aleth.io/data/defi/evolution-defi-platforms
-- https://defiprime.com/
-- https://whois0x.io/defimarket
-- https://defiscan.io/
-- https://dapptotal.com/defi
-- https://ethdashboard.com/
-- https://explore.duneanalytics.com/public/dashboards/1T8bkBHXld3M8S10Sf6DWzT2msczn13oDFsPMaGV
-- https://www.tokenterminal.xyz/
-- https://twitter.com/defilocked
-- https://skew.com/dashboard/decentralized-finance
-- https://explore.duneanalytics.com/public/dashboards/sSboszw8HIp3loFKBXv6uTMW9U3qac4bQF3weikS
-- https://ethereumprice.org/defi-charts/
-- https://whois0x.io/defimarket
-- https://twitter.com/defiAlerts
-- https://defi.dapp.review/
 - https://app.santiment.net/assets/list?name=DeFi%20Summer@2046#shared
+- https://dapptotal.com/defi
+- https://defi.dapp.review/
+- https://defiprime.com/
+- https://defipulse.com/
+- https://defiscan.io/
+- https://ethdashboard.com/
+- https://ethereumprice.org/defi-charts/
+- https://etherscan.io/defi-leaderboard
+- https://explore.duneanalytics.com/public/dashboards/1T8bkBHXld3M8S10Sf6DWzT2msczn13oDFsPMaGV
+- https://explore.duneanalytics.com/public/dashboards/sSboszw8HIp3loFKBXv6uTMW9U3qac4bQF3weikS
+- https://public.tableau.com/profile/alethio.defi#!/vizhome/USDLockedinDeFi/USDLocked
+- https://skew.com/dashboard/decentralized-finance
+- https://twitter.com/defiAlerts
+- https://twitter.com/defilocked
+- https://whois0x.io/defimarket
+- https://www.tokenterminal.xyz/
 
 ## InstaDApp        
 - https://defipulse.com/instadapp
