@@ -427,6 +427,7 @@ DISCLAIMER: Nothing contained in this repository should be considered financial 
 - https://uniswap.vision/
 - https://explore.duneanalytics.com/public/dashboards/rxrMZsa1t9ZAAuaP0KzxyN2PKgyoj86JxrunW6Bi]
 - http://www.predictions.exchange/uniswap_markets/
+- https://defilpkit.com (free read-only Uniswap v3 LP calculator: fee APR, net yield after IL & gas, range testing)
 
 ## Volmex 
 - http://volmex.finance/
